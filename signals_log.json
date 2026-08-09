@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "242f0588-02d5-48b9-a299-49f5e940c42b",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 68,
+    "entry": 6.558,
+    "sl": 6.445482142857142,
+    "tp": 6.783035714285715,
+    "stop_distance_pct": 1.7157343266675444,
+    "actual_rr": 2.0,
+    "reasons": [
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "bos_1h",
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.4,
+    "position_usd": 87.4261228376445,
+    "risk_usd": 1.5000000000000002,
+    "profit_usd": 3.0000000000000004,
+    "timestamp": "2026-08-09T20:42:43.598342+00:00",
+    "status": "pending"
+  }
+]
