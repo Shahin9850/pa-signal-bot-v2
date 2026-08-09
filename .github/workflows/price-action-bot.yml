@@ -1,0 +1,51 @@
+name: Price Action Bot
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pandas numpy requests
+
+      - name: Run bot
+        env:
+          PA_TELEGRAM_TOKEN: ${{ secrets.PRICE_ACTION_BOT_TOKEN }}
+          PA_TELEGRAM_CHAT_ID: ${{ secrets.PRICE_ACTION_BOT_CHAT_ID }}
+          CAPITAL_USD: ${{ secrets.CAPITAL_USD }}
+          RISK_PERCENT: ${{ secrets.RISK_PERCENT }}
+          MARGIN_ALLOCATION_PERCENT: ${{ secrets.MARGIN_ALLOCATION_PERCENT }}
+          MAX_LEVERAGE: ${{ secrets.MAX_LEVERAGE }}
+        run: python price_action_bot.py
+
+      - name: Debug - list files after run
+        run: |
+          echo "--- pwd ---"
+          pwd
+          echo "--- ls -la ---"
+          ls -la
+          echo "--- git status ---"
+          git status
+
+      - name: Commit updated memory files (weights / log / offset)
+        run: |
+          git config user.name "price-action-bot"
+          git config user.email "actions@github.com"
+          git add weights.json signals_log.json telegram_offset.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "به‌روزرسانی خودکار حافظه ربات [skip ci]"
+          git push
