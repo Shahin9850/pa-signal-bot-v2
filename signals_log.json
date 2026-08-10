@@ -29,5 +29,35 @@
     "timestamp": "2026-08-09T20:42:43.598342+00:00",
     "status": "loss",
     "closed_at": "2026-08-09T23:38:40.066550+00:00"
+  },
+  {
+    "id": "081ece19-3495-478a-9936-8c3051fc9f9c",
+    "symbol": "BNBUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 604.04,
+    "sl": 611.77,
+    "tp": 588.5799999999999,
+    "stop_distance_pct": 1.2797165750612574,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.9,
+    "position_usd": 117.21345407503206,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-10T09:52:51.939251+00:00",
+    "status": "pending"
   }
 ]
