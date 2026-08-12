@@ -89,7 +89,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-10T23:47:00.872052+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-12T21:54:59.367386+00:00"
   },
   {
     "id": "912551e4-eba5-4886-8287-f84f525ac7cf",
@@ -180,6 +181,36 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-12T18:39:30.890436+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "c271fb43-a6da-4a32-9072-0c2b2def3348",
+    "symbol": "LINKUSDT",
+    "direction": "SELL",
+    "confidence": 79,
+    "entry": 8.668,
+    "sl": 8.81025,
+    "tp": 8.383499999999998,
+    "stop_distance_pct": 1.641093677895716,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.6,
+    "position_usd": 91.40246045694158,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-12T21:55:20.556036+00:00",
     "status": "pending"
   }
 ]
