@@ -121,5 +121,35 @@
     "timestamp": "2026-08-11T05:30:39.194181+00:00",
     "status": "loss",
     "closed_at": "2026-08-11T09:10:48.000640+00:00"
+  },
+  {
+    "id": "d677ae77-59be-4767-b1d6-b49c79cf5d4a",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 70,
+    "entry": 76.8,
+    "sl": 74.54374999999999,
+    "tp": 81.31250000000001,
+    "stop_distance_pct": 2.9378255208333446,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "نشانه تغییر روند به صعودی (CHoCH) در ۱ساعته",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "choch_1h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.6,
+    "position_usd": 51.05817174515216,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-12T09:33:36.180547+00:00",
+    "status": "pending"
   }
 ]
