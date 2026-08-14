@@ -274,5 +274,35 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-14T10:28:25.756665+00:00",
     "status": "pending"
+  },
+  {
+    "id": "41349a10-d91e-461c-a5cb-7e1a309dd01e",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 8.839,
+    "sl": 8.712071428571429,
+    "tp": 9.092857142857143,
+    "stop_distance_pct": 1.4360060123155505,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.2,
+    "position_usd": 104.45638716938655,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-14T11:23:36.529114+00:00",
+    "status": "pending"
   }
 ]
