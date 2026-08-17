@@ -459,6 +459,7 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-16T23:58:03.711721+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-17T03:07:39.210452+00:00"
   }
 ]
