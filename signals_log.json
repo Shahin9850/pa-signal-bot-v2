@@ -584,5 +584,35 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-18T14:46:32.430987+00:00",
     "status": "pending"
+  },
+  {
+    "id": "bd956346-d429-478b-afba-976675f5cdea",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 70,
+    "entry": 64806.0,
+    "sl": 63968.96732142857,
+    "tp": 66480.06535714286,
+    "stop_distance_pct": 1.2915975041993455,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "نشانه تغییر روند به صعودی (CHoCH) در ۱ساعته",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "choch_1h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.8,
+    "position_usd": 116.13525073585846,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-18T16:50:47.126114+00:00",
+    "status": "pending"
   }
 ]
