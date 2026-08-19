@@ -524,7 +524,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-18T14:46:25.461853+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-19T15:38:58.315490+00:00"
   },
   {
     "id": "313c93d4-6bd5-42f6-9e12-ecf5ed830ae5",
@@ -554,7 +555,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-18T14:46:27.431989+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-19T15:38:58.315490+00:00"
   },
   {
     "id": "2dbb9674-a468-4a72-b20a-d19e3887f2c3",
@@ -615,7 +617,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-18T16:50:47.126114+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-19T15:38:58.315490+00:00"
   },
   {
     "id": "9a71be7f-1a31-42aa-86af-ed22f54cb2de",
@@ -676,7 +679,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-19T08:57:04.895050+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-19T15:38:58.315490+00:00"
   },
   {
     "id": "b31ee7e8-ae02-4254-b168-6f7ab35b621c",
@@ -768,6 +772,37 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-19T13:12:48.923473+00:00",
+    "status": "win",
+    "closed_at": "2026-08-19T15:38:58.315490+00:00"
+  },
+  {
+    "id": "ad0533fb-c236-47eb-9d9e-2f76966935fc",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 80,
+    "entry": 68547.01,
+    "sl": 64044.35732142857,
+    "tp": 77552.31535714284,
+    "stop_distance_pct": 6.568707633741316,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.1,
+    "position_usd": 22.835542143708565,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-19T15:39:03.356495+00:00",
     "status": "pending"
   }
 ]
