@@ -431,7 +431,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-16T01:53:53.268570+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-19T01:54:46.610628+00:00"
   },
   {
     "id": "109f1206-ed1f-4f89-b322-a01f861c3078",
