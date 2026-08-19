@@ -584,7 +584,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-18T14:46:32.430987+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-19T13:12:36.516195+00:00"
   },
   {
     "id": "bd956346-d429-478b-afba-976675f5cdea",
@@ -734,6 +735,36 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-19T10:49:34.079444+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "ea21e0d8-9cbc-445d-b979-98c515193a39",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 79,
+    "entry": 78.38,
+    "sl": 76.52410714285713,
+    "tp": 82.09178571428572,
+    "stop_distance_pct": 2.367814311231006,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.2,
+    "position_usd": 63.34956220533033,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-19T13:12:48.923473+00:00",
     "status": "pending"
   }
 ]
