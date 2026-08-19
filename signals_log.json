@@ -705,5 +705,35 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-19T08:57:10.998255+00:00",
     "status": "pending"
+  },
+  {
+    "id": "63ab9e87-2b5a-4942-a41f-f0f989b6eee0",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 1919.52,
+    "sl": 1904.3542857142857,
+    "tp": 1949.8514285714286,
+    "stop_distance_pct": 0.7900784719989544,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 9.5,
+    "position_usd": 189.8545591559904,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-19T10:49:34.079444+00:00",
+    "status": "pending"
   }
 ]
