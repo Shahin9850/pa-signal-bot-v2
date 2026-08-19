@@ -864,5 +864,61 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-19T16:05:39.210320+00:00",
     "status": "pending"
+  },
+  {
+    "id": "24b5a8bb-54b7-4ad8-9d18-d8c50810c454",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 66,
+    "entry": 2089.24,
+    "sl": 1900.2769642857143,
+    "tp": 2467.166071428571,
+    "stop_distance_pct": 9.044582513942178,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 1.8089165027884355,
+    "profit_usd": 3.617833005576871,
+    "timestamp": "2026-08-19T16:49:38.802256+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "d473d4c2-dc80-43fb-9946-05d2a8575ecf",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 66,
+    "entry": 81.94,
+    "sl": 76.43464285714285,
+    "tp": 92.9507142857143,
+    "stop_distance_pct": 6.718766344712169,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.1,
+    "position_usd": 22.32552708400905,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-19T16:49:44.803182+00:00",
+    "status": "pending"
   }
 ]
