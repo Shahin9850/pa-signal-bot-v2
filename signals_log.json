@@ -3153,5 +3153,59 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-20T22:04:22.283371+00:00",
     "status": "pending"
+  },
+  {
+    "id": "8749b1a0-3f20-4928-a130-81baa660c067",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 94,
+    "entry": 72692.01,
+    "sl": 70986.30321428571,
+    "tp": 76103.42357142856,
+    "stop_distance_pct": 2.346484552723584,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.2,
+    "position_usd": 63.92541550119891,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T22:48:47.020200+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "f8aadc98-5127-46c0-be1b-bd573ab2a7fa",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 73,
+    "entry": 87.31,
+    "sl": 85.96642857142857,
+    "tp": 89.99714285714288,
+    "stop_distance_pct": 1.5388517106533466,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.9,
+    "position_usd": 97.47527910685746,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T22:48:56.002498+00:00",
+    "status": "pending"
   }
 ]
