@@ -1207,7 +1207,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-20T00:01:56.316360+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-20T12:04:37.365427+00:00"
   },
   {
     "id": "5359c785-a02e-4388-aae8-81fd2167cdda",
@@ -1841,6 +1842,148 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-20T11:37:28.826718+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "7c7cc1f6-45fb-4021-b7ba-5600a6918808",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 87,
+    "entry": 71796.01,
+    "sl": 68752.93625,
+    "tp": 77882.15749999999,
+    "stop_distance_pct": 4.238499813569022,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.8,
+    "position_usd": 35.389880051379016,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T12:05:01.447890+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "f78246b8-5058-404e-a944-5c79bcd56585",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 87,
+    "entry": 87.27,
+    "sl": 83.81089285714286,
+    "tp": 94.18821428571427,
+    "stop_distance_pct": 3.96368413298629,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.9,
+    "position_usd": 37.84358061019057,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T12:05:07.795366+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "9dec7f51-11d6-4299-a4b0-4a0e871ae265",
+    "symbol": "TRXUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 0.3375,
+    "sl": 0.33207678571428567,
+    "tp": 0.3483464285714287,
+    "stop_distance_pct": 1.606878306878326,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.7,
+    "position_usd": 93.34869937438151,
+    "risk_usd": 1.5000000000000002,
+    "profit_usd": 3.0000000000000004,
+    "timestamp": "2026-08-20T12:05:11.006390+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "176e84bc-9c88-44be-b700-517e5b7a2e49",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 82,
+    "entry": 10.648,
+    "sl": 10.338803571428572,
+    "tp": 11.266392857142854,
+    "stop_distance_pct": 2.9037981646452597,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.6,
+    "position_usd": 51.6564828183658,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T12:05:14.511405+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "ad773003-7f40-4176-b255-fc0a6931205d",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 87,
+    "entry": 6.883,
+    "sl": 6.674035714285714,
+    "tp": 7.300928571428572,
+    "stop_distance_pct": 3.035947780245328,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.5,
+    "position_usd": 49.40796445052123,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T12:05:16.402539+00:00",
     "status": "pending"
   }
 ]
