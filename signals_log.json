@@ -1438,5 +1438,119 @@
     "profit_usd": 3.0000000000000004,
     "timestamp": "2026-08-20T08:58:58.518771+00:00",
     "status": "pending"
+  },
+  {
+    "id": "89575511-51df-40c6-b81f-55b9ca626d43",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 84,
+    "entry": 71989.99,
+    "sl": 68725.13767857142,
+    "tp": 78519.69464285717,
+    "stop_distance_pct": 4.535147624591393,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "candle_pattern"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.7,
+    "position_usd": 33.074998305819136,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T09:45:27.644759+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "092df340-1136-47ab-aeb1-7f08d6e1caeb",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 643.01,
+    "sl": 620.7075,
+    "tp": 687.615,
+    "stop_distance_pct": 3.4684530567176264,
+    "actual_rr": 2.0,
+    "reasons": [
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "bos_1h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.2,
+    "position_usd": 43.246945409707415,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T09:45:32.215818+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "93f3c096-036c-495f-aa1e-8e33b56c7e92",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 85,
+    "entry": 87.57,
+    "sl": 83.71964285714286,
+    "tp": 95.27071428571426,
+    "stop_distance_pct": 4.396890650744702,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.7,
+    "position_usd": 34.115017159818265,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T09:45:37.260934+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "65a1bc65-d39b-4297-90f5-82cd0f25054e",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 6.889,
+    "sl": 6.670089285714286,
+    "tp": 7.326821428571429,
+    "stop_distance_pct": 3.1776849221325927,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.4,
+    "position_usd": 47.204176523370585,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T09:45:48.706691+00:00",
+    "status": "pending"
   }
 ]
