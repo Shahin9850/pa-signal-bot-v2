@@ -2516,5 +2516,62 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-20T16:17:30.982589+00:00",
     "status": "pending"
+  },
+  {
+    "id": "dbdba6aa-f399-48ad-9163-051ffe6872f7",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 86,
+    "entry": 72804.01,
+    "sl": 70956.98589285715,
+    "tp": 76498.05821428569,
+    "stop_distance_pct": 2.536981283232677,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "جمع‌آوری نقدینگی بالای سقف قبلی و بازگشت (Liquidity Grab نزولی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.0,
+    "position_usd": 59.125386927910924,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T17:03:26.372454+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "a869d615-16a0-4c04-a9ca-a931dbc8f865",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 90,
+    "entry": 7.205,
+    "sl": 6.706392857142857,
+    "tp": 8.202214285714286,
+    "stop_distance_pct": 6.9202934470110025,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.1,
+    "position_usd": 21.675381419669083,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T17:03:40.297789+00:00",
+    "status": "pending"
   }
 ]
