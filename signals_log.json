@@ -1236,5 +1236,34 @@
     "profit_usd": 3.1475216943668194,
     "timestamp": "2026-08-20T01:54:24.150799+00:00",
     "status": "pending"
+  },
+  {
+    "id": "7f1caa02-1bb6-4f94-a68d-5e24ca6eb529",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 69637.17,
+    "sl": 68759.81821428571,
+    "tp": 71391.87357142857,
+    "stop_distance_pct": 1.2598900640481039,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)",
+      "جمع‌آوری نقدینگی بالای سقف قبلی و بازگشت (Liquidity Grab نزولی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 6.0,
+    "position_usd": 119.05800694867044,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T07:24:52.559668+00:00",
+    "status": "pending"
   }
 ]
