@@ -3045,5 +3045,113 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-20T21:36:52.028034+00:00",
     "status": "pending"
+  },
+  {
+    "id": "1701c33e-49c6-41d1-882d-3d40ffbaf05b",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 89,
+    "entry": 72550.0,
+    "sl": 70987.60892857143,
+    "tp": 75674.78214285715,
+    "stop_distance_pct": 2.1535369695776345,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.5,
+    "position_usd": 69.65285579908989,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T22:04:12.215535+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "57741680-f8d4-4a3d-9d53-fe45a6b8e048",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 73,
+    "entry": 87.35,
+    "sl": 85.96928571428572,
+    "tp": 90.11142857142855,
+    "stop_distance_pct": 1.5806689017908147,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.7,
+    "position_usd": 94.89653388515325,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T22:04:18.332875+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "dc0f362d-5a97-4541-a08e-dc74a81d44f2",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 69,
+    "entry": 0.07995,
+    "sl": 0.08389982142857143,
+    "tp": 0.07205035714285712,
+    "stop_distance_pct": 4.940364513535253,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.5,
+    "position_usd": 30.362132103621274,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T22:04:20.312633+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "f5d34d78-7fc0-4c06-8bfc-f2e6192c22a3",
+    "symbol": "TRXUSDT",
+    "direction": "BUY",
+    "confidence": 69,
+    "entry": 0.3399,
+    "sl": 0.33201071428571427,
+    "tp": 0.3556785714285714,
+    "stop_distance_pct": 2.321060816206446,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.2,
+    "position_usd": 64.62562245359895,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-20T22:04:22.283371+00:00",
+    "status": "pending"
   }
 ]
