@@ -4210,7 +4210,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T09:01:40.300982+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-21T11:07:30.455667+00:00"
   },
   {
     "id": "23e4dd1b-9a7f-4c09-9e7e-9636df4d1d33",
@@ -4421,6 +4422,62 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T10:38:35.685252+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "1d0b0d26-4b32-4100-9bda-56e84232894b",
+    "symbol": "TRXUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 0.3401,
+    "sl": 0.33745714285714284,
+    "tp": 0.34538571428571435,
+    "stop_distance_pct": 0.7770823707313051,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 9.7,
+    "position_usd": 193.02972972972785,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T11:08:18.455962+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "ae7ddda7-414c-43f1-9d4f-da256f1fa4ed",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 68,
+    "entry": 11.391,
+    "sl": 10.443321428571428,
+    "tp": 13.286357142857144,
+    "stop_distance_pct": 8.319537981112912,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)",
+      "⚠️ برخی سیگنال‌ها در تناقض بودند؛ امتیاز اطمینان کاهش یافت"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "liquidity_grab"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 1.6639075962225824,
+    "profit_usd": 3.327815192445165,
+    "timestamp": "2026-08-21T11:08:21.896575+00:00",
     "status": "pending"
   }
 ]
