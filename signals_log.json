@@ -4330,7 +4330,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T09:54:49.922056+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-21T20:43:08.441464+00:00"
   },
   {
     "id": "27787bd5-1acb-443a-a3d6-8d90f2f42e67",
@@ -4533,7 +4534,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T11:45:54.536824+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-21T20:43:08.441464+00:00"
   },
   {
     "id": "d5da049e-7d5a-4c44-a683-d90ed47b006d",
@@ -4731,7 +4733,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T14:10:43.915463+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-21T20:43:08.441464+00:00"
   },
   {
     "id": "11476482-b535-44ac-acbf-8fa13f297ab7",
@@ -5338,6 +5341,116 @@
     "risk_usd": 2.3142752715121166,
     "profit_usd": 4.628550543024233,
     "timestamp": "2026-08-21T20:01:42.469608+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "e682be7d-2293-46a5-9373-48e98b28dc69",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 2437.91,
+    "sl": 2348.0958928571426,
+    "tp": 2617.5382142857143,
+    "stop_distance_pct": 3.6840616406207456,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.0,
+    "position_usd": 40.71593111963397,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T20:44:35.648235+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "8c0df458-94a7-434f-b59e-0b7ae328dd66",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 675.21,
+    "sl": 636.2983928571429,
+    "tp": 753.0332142857144,
+    "stop_distance_pct": 5.7628896406832215,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.3,
+    "position_usd": 26.028608797411692,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T20:44:38.183021+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "c2566d23-d9eb-46f1-af9d-d2621058c649",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 91.88,
+    "sl": 89.42160714285714,
+    "tp": 96.7967857142857,
+    "stop_distance_pct": 2.6756561353317965,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.8,
+    "position_usd": 56.06101547178041,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T20:44:42.828888+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "5302c904-a123-4651-a62e-691b357b677e",
+    "symbol": "DOGEUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 0.08682,
+    "sl": 0.0821525,
+    "tp": 0.09615499999999998,
+    "stop_distance_pct": 5.37606542271365,
+    "actual_rr": 2.0,
+    "reasons": [
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.4,
+    "position_usd": 27.901446170326782,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T20:44:45.289628+00:00",
     "status": "pending"
   }
 ]
