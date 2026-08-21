@@ -4533,5 +4533,33 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T11:45:54.536824+00:00",
     "status": "pending"
+  },
+  {
+    "id": "d5da049e-7d5a-4c44-a683-d90ed47b006d",
+    "symbol": "TRXUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 0.3402,
+    "sl": 0.3374464285714286,
+    "tp": 0.3457071428571428,
+    "stop_distance_pct": 0.8093978332073518,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 9.3,
+    "position_usd": 185.32295719844478,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T12:17:50.498607+00:00",
+    "status": "pending"
   }
 ]
