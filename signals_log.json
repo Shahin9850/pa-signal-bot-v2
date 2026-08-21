@@ -5312,5 +5312,32 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T19:41:08.413696+00:00",
     "status": "pending"
+  },
+  {
+    "id": "2191c7d9-f109-4f89-928c-813c35a68a20",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 70,
+    "entry": 1.368,
+    "sl": 1.2097035714285713,
+    "tp": 1.6845928571428577,
+    "stop_distance_pct": 11.571376357560583,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 2.3142752715121166,
+    "profit_usd": 4.628550543024233,
+    "timestamp": "2026-08-21T20:01:42.469608+00:00",
+    "status": "pending"
   }
 ]

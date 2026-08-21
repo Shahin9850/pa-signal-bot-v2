@@ -4,6 +4,6 @@
   "choch_1h": 12.0,
   "candle_pattern": 35.0,
   "supply_demand_zone": 35.0,
-  "order_block": 24.5,
+  "order_block": 25.0,
   "liquidity_grab": 10.0
 }
