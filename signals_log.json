@@ -6242,5 +6242,230 @@
     "profit_usd": 3.000000000000003,
     "timestamp": "2026-08-21T22:45:31.934920+00:00",
     "status": "pending"
+  },
+  {
+    "id": "63602575-4621-48e4-aafc-4afe072360e3",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 140,
+    "entry": 78521.99,
+    "sl": 76435.79089285714,
+    "tp": 82694.38821428573,
+    "stop_distance_pct": 2.656834228402596,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.8,
+    "position_usd": 56.45817055367677,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T23:10:30.038171+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "ae5e0a08-9ca2-4dd8-b6a9-493445e713ab",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 2524.3,
+    "sl": 2348.9367857142856,
+    "tp": 2875.0264285714293,
+    "stop_distance_pct": 6.947003695508242,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "candle_pattern"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.1,
+    "position_usd": 21.592042638034904,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T23:10:32.079250+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "2a8e8875-a156-4e7d-8878-ef6583dba16c",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 690.18,
+    "sl": 670.2382142857143,
+    "tp": 730.0635714285712,
+    "stop_distance_pct": 2.889360125515899,
+    "actual_rr": 2.0,
+    "reasons": [
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.6,
+    "position_usd": 51.914608592868746,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T23:10:34.057749+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "96e5be69-a148-49af-95eb-4f945c3bfabe",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 1.448,
+    "sl": 1.353175,
+    "tp": 1.6376499999999998,
+    "stop_distance_pct": 6.5486878453038635,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.1,
+    "position_usd": 22.90535196414449,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T23:10:36.035371+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "4432d43d-4068-4f19-9e31-dd0b8abeed5c",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 94.18,
+    "sl": 90.29053571428572,
+    "tp": 101.95892857142857,
+    "stop_distance_pct": 4.129819797955279,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "candle_pattern"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.8,
+    "position_usd": 36.321197373857984,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T23:10:38.006394+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "cc8243aa-05a9-4e82-9665-763825b11d2b",
+    "symbol": "TRXUSDT",
+    "direction": "BUY",
+    "confidence": 105,
+    "entry": 0.3427,
+    "sl": 0.3374875,
+    "tp": 0.353125,
+    "stop_distance_pct": 1.5210096294134838,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.9,
+    "position_usd": 98.61870503597106,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T23:10:41.474780+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "8b2ee5f7-29a7-4689-b164-fb029f8a82c3",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 105,
+    "entry": 12.15,
+    "sl": 11.172107142857143,
+    "tp": 14.105785714285714,
+    "stop_distance_pct": 8.048500881834213,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 1.6097001763668426,
+    "profit_usd": 3.219400352733685,
+    "timestamp": "2026-08-21T23:10:44.925102+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "5b6a467f-7b2e-497b-9353-5e367773b3e2",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 7.857,
+    "sl": 7.433517857142856,
+    "tp": 8.703964285714289,
+    "stop_distance_pct": 5.389870724922283,
+    "actual_rr": 2.000000000000002,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.4,
+    "position_usd": 27.82998102466787,
+    "risk_usd": 1.5,
+    "profit_usd": 3.000000000000003,
+    "timestamp": "2026-08-21T23:10:46.891127+00:00",
+    "status": "pending"
   }
 ]
