@@ -4899,5 +4899,89 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T15:42:56.023285+00:00",
     "status": "pending"
+  },
+  {
+    "id": "550fe7fa-d5af-447e-be02-497279ffc9ea",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 70,
+    "entry": 90.89,
+    "sl": 89.42071428571428,
+    "tp": 93.82857142857144,
+    "stop_distance_pct": 1.6165537620043104,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.6,
+    "position_usd": 92.78998541565365,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T16:14:44.018008+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "094fdcec-7450-4a5e-8b64-07e980f0bc66",
+    "symbol": "ADAUSDT",
+    "direction": "SELL",
+    "confidence": 84,
+    "entry": 0.2175,
+    "sl": 0.22139999999999999,
+    "tp": 0.20970000000000003,
+    "stop_distance_pct": 1.793103448275856,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "جمع‌آوری نقدینگی بالای سقف قبلی و بازگشت (Liquidity Grab نزولی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "liquidity_grab"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.2,
+    "position_usd": 83.65384615384643,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T16:14:49.052839+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "c2c111e7-d9ae-49c9-b265-677e502ef893",
+    "symbol": "AVAXUSDT",
+    "direction": "SELL",
+    "confidence": 92,
+    "entry": 7.554,
+    "sl": 7.736982142857142,
+    "tp": 7.188035714285716,
+    "stop_distance_pct": 2.4223211921782113,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.1,
+    "position_usd": 61.92407533912391,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T16:14:52.582814+00:00",
+    "status": "pending"
   }
 ]
