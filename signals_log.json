@@ -1756,7 +1756,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-20T11:00:19.485722+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-21T06:17:52.382345+00:00"
   },
   {
     "id": "5f662928-7736-4c32-bcbd-200ed6c3412e",
@@ -2210,7 +2211,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-20T14:04:58.684660+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-21T06:17:52.382345+00:00"
   },
   {
     "id": "9385ce8c-59e1-483d-8366-327c54fd28a7",
@@ -2804,7 +2806,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-20T19:38:30.948556+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-21T06:17:52.382345+00:00"
   },
   {
     "id": "253df016-807b-41dc-88cf-b3c034430750",
@@ -2971,7 +2974,8 @@
     "risk_usd": 1.5000000000000002,
     "profit_usd": 3.0000000000000004,
     "timestamp": "2026-08-20T20:50:07.708982+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-21T06:17:52.382345+00:00"
   },
   {
     "id": "937230e4-2025-422a-b407-fdf1d0ef7c5d",
@@ -3025,7 +3029,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-20T21:36:47.494225+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-21T06:17:52.382345+00:00"
   },
   {
     "id": "1aaa9f31-92f7-4000-833c-68607fe3df15",
@@ -3713,6 +3718,35 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T05:40:57.765021+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "312d85f7-54c1-4559-8706-08a9343f292d",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 90,
+    "entry": 90.69,
+    "sl": 85.93446428571428,
+    "tp": 100.20107142857142,
+    "stop_distance_pct": 5.24372666698171,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی نزولی شناسایی شد (bearish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.4,
+    "position_usd": 28.605610003379525,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T06:19:19.051015+00:00",
     "status": "pending"
   }
 ]
