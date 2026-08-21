@@ -3630,5 +3630,89 @@
     "profit_usd": 3.0000000000000004,
     "timestamp": "2026-08-21T04:07:12.139257+00:00",
     "status": "pending"
+  },
+  {
+    "id": "29663360-6dbb-406a-aee9-eaccc75e91ff",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 73,
+    "entry": 663.64,
+    "sl": 636.9466071428571,
+    "tp": 717.0267857142857,
+    "stop_distance_pct": 4.022270034528184,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.9,
+    "position_usd": 37.29237438370921,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T05:40:47.059370+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "363aa0ad-0aad-42dc-bbf7-2f9563e46462",
+    "symbol": "ADAUSDT",
+    "direction": "BUY",
+    "confidence": 105,
+    "entry": 0.2084,
+    "sl": 0.19224107142857144,
+    "tp": 0.24071785714285712,
+    "stop_distance_pct": 7.753804496846718,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "bos_1h",
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 1.5507608993693436,
+    "profit_usd": 3.101521798738687,
+    "timestamp": "2026-08-21T05:40:54.439356+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "e05c441c-0f01-4624-8ff1-2c798173fe67",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 70,
+    "entry": 7.348,
+    "sl": 7.092625,
+    "tp": 7.85875,
+    "stop_distance_pct": 3.4754354926510604,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "جمع‌آوری نقدینگی بالای سقف قبلی و بازگشت (Liquidity Grab نزولی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.2,
+    "position_usd": 43.16005873715126,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-21T05:40:57.765021+00:00",
+    "status": "pending"
   }
 ]
