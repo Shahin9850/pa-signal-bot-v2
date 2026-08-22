@@ -952,7 +952,8 @@
     "risk_usd": 2.119499177242811,
     "profit_usd": 4.238998354485622,
     "timestamp": "2026-08-19T20:48:06.365846+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-22T21:02:14.309937+00:00"
   },
   {
     "id": "48f62aef-f862-4c66-b602-6157ee96dbfb",
@@ -9736,6 +9737,85 @@
     "risk_usd": 1.5000000000000002,
     "profit_usd": 3.0000000000000004,
     "timestamp": "2026-08-22T20:37:28.763605+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "10368c3f-9bc7-4b19-b48a-06797bb5f81e",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 70,
+    "entry": 694.61,
+    "sl": 686.7128571428572,
+    "tp": 710.4042857142857,
+    "stop_distance_pct": 1.13691753028935,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "جمع‌آوری نقدینگی بالای سقف قبلی و بازگشت (Liquidity Grab نزولی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 6.6,
+    "position_usd": 131.93569102749646,
+    "risk_usd": 1.5000000000000002,
+    "profit_usd": 3.0000000000000004,
+    "timestamp": "2026-08-22T21:04:31.361463+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "0c915631-cef3-4fa2-a8ac-5b97277b83b6",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 1.487,
+    "sl": 1.4100553571428571,
+    "tp": 1.640889285714286,
+    "stop_distance_pct": 5.174488423479689,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.4,
+    "position_usd": 28.988372902596907,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T21:04:34.141310+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "73ca57cf-2a79-4ce8-8f4c-bfff6acdab2f",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 93.75,
+    "sl": 92.5375,
+    "tp": 96.17500000000001,
+    "stop_distance_pct": 1.2933333333333394,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.8,
+    "position_usd": 115.97938144329842,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T21:04:36.539994+00:00",
     "status": "pending"
   }
 ]
