@@ -9071,5 +9071,138 @@
     "profit_usd": 3.0000000000000053,
     "timestamp": "2026-08-22T16:38:23.508837+00:00",
     "status": "pending"
+  },
+  {
+    "id": "e2c19fb5-b8b9-4c72-a629-df5e98983810",
+    "symbol": "BTCUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 77298.84,
+    "sl": 78963.28232142856,
+    "tp": 73969.95535714287,
+    "stop_distance_pct": 2.153256531959035,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_pin)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.5,
+    "position_usd": 69.6619273057678,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T17:03:47.739863+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "11bf7475-0c17-47e5-82d5-f221c1387b48",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 695.94,
+    "sl": 681.5108928571428,
+    "tp": 724.7982142857145,
+    "stop_distance_pct": 2.0733263130237116,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.6,
+    "position_usd": 72.34751184980718,
+    "risk_usd": 1.4999999999999998,
+    "profit_usd": 2.9999999999999996,
+    "timestamp": "2026-08-22T17:03:52.203019+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "2a535376-1a76-4527-a927-e8bb5865104e",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 1.4802,
+    "sl": 1.403619642857143,
+    "tp": 1.6333607142857138,
+    "stop_distance_pct": 5.17364931379928,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.4,
+    "position_usd": 28.993074501574053,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T17:03:54.689323+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "dbd84b2b-f177-45b2-8516-9bdbdd5f3cb3",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 94.53,
+    "sl": 90.70535714285714,
+    "tp": 102.17928571428573,
+    "stop_distance_pct": 4.0459566879751,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.9,
+    "position_usd": 37.07404986459982,
+    "risk_usd": 1.5000000000000002,
+    "profit_usd": 3.0000000000000004,
+    "timestamp": "2026-08-22T17:03:57.090422+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "e94b1c2f-91fc-49fb-bf83-c833ef5fdbd4",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 70,
+    "entry": 7.579,
+    "sl": 7.293160714285714,
+    "tp": 8.150678571428571,
+    "stop_distance_pct": 3.7714643846719262,
+    "actual_rr": 2.000000000000003,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "جمع‌آوری نقدینگی بالای سقف قبلی و بازگشت (Liquidity Grab نزولی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.0,
+    "position_usd": 39.772349597051345,
+    "risk_usd": 1.5,
+    "profit_usd": 3.000000000000005,
+    "timestamp": "2026-08-22T17:04:07.785348+00:00",
+    "status": "pending"
   }
 ]
