@@ -1069,7 +1069,8 @@
     "risk_usd": 1.616847273698415,
     "profit_usd": 3.23369454739683,
     "timestamp": "2026-08-19T22:02:36.690791+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-22T22:33:45.679234+00:00"
   },
   {
     "id": "edffd995-9d58-435a-a723-f4874c467cfc",
@@ -1098,7 +1099,8 @@
     "risk_usd": 3.3315785142294274,
     "profit_usd": 6.663157028458855,
     "timestamp": "2026-08-19T22:02:39.382427+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-22T22:33:45.679234+00:00"
   },
   {
     "id": "e6f71d14-a7cd-483c-bfa7-ffd589d442ac",
@@ -1127,7 +1129,8 @@
     "risk_usd": 2.290893271461717,
     "profit_usd": 4.581786542923434,
     "timestamp": "2026-08-19T22:02:46.205974+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-22T22:33:45.679234+00:00"
   },
   {
     "id": "81874a88-9ed7-429a-b6dd-ab960976dce3",
@@ -9900,6 +9903,122 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T22:01:18.401282+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "644ba62c-6a3c-4361-b930-b25f79103d88",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 696.26,
+    "sl": 686.8244642857143,
+    "tp": 715.1310714285714,
+    "stop_distance_pct": 1.3551741754927356,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.5,
+    "position_usd": 110.68687900982222,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T22:35:20.377501+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "cb6a5d40-72ec-4c52-8b4b-0df877393e74",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 68,
+    "entry": 93.84,
+    "sl": 92.52964285714285,
+    "tp": 96.46071428571432,
+    "stop_distance_pct": 1.3963737668980787,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)",
+      "⚠️ برخی سیگنال‌ها در تناقض بودند؛ امتیاز اطمینان کاهش یافت"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "liquidity_grab"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.4,
+    "position_usd": 107.42109566639296,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T22:35:23.874543+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "2dbc6fa5-6c80-4d3e-a254-7ba8ac4e9ae0",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 68,
+    "entry": 11.573,
+    "sl": 11.429964285714286,
+    "tp": 11.85907142857143,
+    "stop_distance_pct": 1.2359432669637465,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)",
+      "⚠️ برخی سیگنال‌ها در تناقض بودند؛ امتیاز اطمینان کاهش یافت"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "liquidity_grab"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 6.1,
+    "position_usd": 121.36479400749057,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T22:35:30.446929+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "365f112b-fbd3-4cce-92c3-42db6eacf8e1",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 68,
+    "entry": 7.52,
+    "sl": 7.402375,
+    "tp": 7.755249999999998,
+    "stop_distance_pct": 1.5641622340425456,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)",
+      "⚠️ برخی سیگنال‌ها در تناقض بودند؛ امتیاز اطمینان کاهش یافت"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "liquidity_grab"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.8,
+    "position_usd": 95.89798087141385,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T22:35:32.442130+00:00",
     "status": "pending"
   }
 ]
