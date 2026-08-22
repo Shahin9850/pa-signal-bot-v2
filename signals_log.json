@@ -6856,5 +6856,112 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T00:03:35.371137+00:00",
     "status": "pending"
+  },
+  {
+    "id": "0644cc1f-7cbd-4e92-af36-a12e18b47422",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 2517.41,
+    "sl": 2348.7289285714282,
+    "tp": 2854.772142857143,
+    "stop_distance_pct": 6.700580017898222,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.1,
+    "position_usd": 22.3861217386149,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T01:53:54.587526+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "900091c3-5b45-4401-a56f-005d3886b430",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 1.4809,
+    "sl": 1.3527285714285715,
+    "tp": 1.7372428571428573,
+    "stop_distance_pct": 8.654968503709135,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 1.7309937007418272,
+    "profit_usd": 3.4619874014836545,
+    "timestamp": "2026-08-22T01:53:58.155565+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "3786e3f5-d328-4163-a060-e930458802f9",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 105,
+    "entry": 93.66,
+    "sl": 90.27196428571429,
+    "tp": 100.43607142857141,
+    "stop_distance_pct": 3.617377444251235,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.1,
+    "position_usd": 41.46650503346871,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T01:54:00.128244+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "acf47a23-3090-4d85-b4da-9798a9ce4509",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.09117,
+    "sl": 0.09524232142857143,
+    "tp": 0.08302535714285714,
+    "stop_distance_pct": 4.466734044720228,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.7,
+    "position_usd": 33.58158298618721,
+    "risk_usd": 1.4999999999999998,
+    "profit_usd": 2.9999999999999996,
+    "timestamp": "2026-08-22T01:54:02.124774+00:00",
+    "status": "pending"
   }
 ]
