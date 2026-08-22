@@ -8480,5 +8480,57 @@
     "profit_usd": 7.2126381081604976,
     "timestamp": "2026-08-22T11:04:08.174416+00:00",
     "status": "pending"
+  },
+  {
+    "id": "3cdd3b9f-f65e-4808-af50-43a2fe9cb82e",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.08967,
+    "sl": 0.10170964285714286,
+    "tp": 0.06559071428571428,
+    "stop_distance_pct": 13.426611862543616,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 2.685322372508723,
+    "profit_usd": 5.370644745017446,
+    "timestamp": "2026-08-22T12:01:37.473692+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "a3a44e6b-0cf8-4f04-afd6-075f66d562b1",
+    "symbol": "ADAUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.2235,
+    "sl": 0.26086964285714287,
+    "tp": 0.14876071428571427,
+    "stop_distance_pct": 16.72019814637265,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 3.3440396292745294,
+    "profit_usd": 6.688079258549059,
+    "timestamp": "2026-08-22T12:01:42.085016+00:00",
+    "status": "pending"
   }
 ]
