@@ -7866,5 +7866,94 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T05:14:13.237687+00:00",
     "status": "pending"
+  },
+  {
+    "id": "dc9c9af9-8cc8-4368-a9be-7b78941e625c",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 115,
+    "entry": 94.2,
+    "sl": 89.95035714285714,
+    "tp": 102.69928571428572,
+    "stop_distance_pct": 4.511298149833184,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "candle_pattern",
+      "liquidity_grab"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.7,
+    "position_usd": 33.24985292881753,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T05:48:08.155170+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "4fefbcff-e8bf-4f7b-aef1-bc30ed40e012",
+    "symbol": "ADAUSDT",
+    "direction": "SELL",
+    "confidence": 70,
+    "entry": 0.2331,
+    "sl": 0.24065357142857144,
+    "tp": 0.21799285714285713,
+    "stop_distance_pct": 3.24048538334253,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "نشانه تغییر روند به صعودی (CHoCH) در ۱ساعته",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.3,
+    "position_usd": 46.28936170212761,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T05:48:13.109975+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "85da5aeb-8d32-4c5d-a92f-4a1a96dc93b1",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 68,
+    "entry": 7.71,
+    "sl": 7.410339285714286,
+    "tp": 8.30932142857143,
+    "stop_distance_pct": 3.886649990735595,
+    "actual_rr": 2.0000000000000027,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)",
+      "⚠️ برخی سیگنال‌ها در تناقض بودند؛ امتیاز اطمینان کاهش یافت"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "liquidity_grab"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.9,
+    "position_usd": 38.59364757761753,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0000000000000044,
+    "timestamp": "2026-08-22T05:48:16.585671+00:00",
+    "status": "pending"
   }
 ]
