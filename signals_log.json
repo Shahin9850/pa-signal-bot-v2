@@ -10048,5 +10048,67 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T23:03:31.207316+00:00",
     "status": "pending"
+  },
+  {
+    "id": "9f1d018c-b68c-4c10-ae52-6094ef6bf782",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 693.16,
+    "sl": 686.97375,
+    "tp": 705.5324999999999,
+    "stop_distance_pct": 0.8924707138323003,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block",
+      "liquidity_grab"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 8.4,
+    "position_usd": 168.0727419680751,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T23:40:25.398840+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "500f8b2b-1f0c-4c5c-a992-ac18a94a6c17",
+    "symbol": "DOGEUSDT",
+    "direction": "BUY",
+    "confidence": 68,
+    "entry": 0.09157,
+    "sl": 0.08903714285714287,
+    "tp": 0.09663571428571426,
+    "stop_distance_pct": 2.7660337914787907,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)",
+      "⚠️ برخی سیگنال‌ها در تناقض بودند؛ امتیاز اطمینان کاهش یافت"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "liquidity_grab"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.7,
+    "position_usd": 54.22927241962806,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T23:40:31.853895+00:00",
+    "status": "pending"
   }
 ]
