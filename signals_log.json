@@ -9498,5 +9498,83 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T18:46:38.831308+00:00",
     "status": "pending"
+  },
+  {
+    "id": "1edd5d5b-f7b1-418d-8c6a-340d3a7efa3b",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 1.4914,
+    "sl": 1.408275,
+    "tp": 1.6576500000000003,
+    "stop_distance_pct": 5.573622100040239,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.3,
+    "position_usd": 26.91248120300748,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T19:13:22.793738+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "49002998-6337-4f1c-bc28-2db0f0eaf482",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 94.45,
+    "sl": 92.50125,
+    "tp": 98.34750000000001,
+    "stop_distance_pct": 2.063260984647966,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.6,
+    "position_usd": 72.70044900577278,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T19:13:25.234957+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "dca827d2-6b34-4668-a636-7aef83f61317",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 7.554,
+    "sl": 7.399857142857143,
+    "tp": 7.862285714285715,
+    "stop_distance_pct": 2.0405461628654664,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.7,
+    "position_usd": 73.5097312326227,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T19:13:35.051402+00:00",
+    "status": "pending"
   }
 ]
