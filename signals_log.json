@@ -8220,5 +8220,61 @@
     "profit_usd": 5.991818753933293,
     "timestamp": "2026-08-22T08:51:49.584109+00:00",
     "status": "pending"
+  },
+  {
+    "id": "b530ff61-27c2-4177-8767-734a28b9644f",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 1.5189,
+    "sl": 1.3582267857142856,
+    "tp": 1.8402464285714286,
+    "stop_distance_pct": 10.57826152384715,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 2.11565230476943,
+    "profit_usd": 4.23130460953886,
+    "timestamp": "2026-08-22T09:35:30.594721+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "afe49e78-33b2-4a3a-9179-5180b2494266",
+    "symbol": "ADAUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.2268,
+    "sl": 0.26100535714285716,
+    "tp": 0.15838928571428568,
+    "stop_distance_pct": 15.081727135298573,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 3.0163454270597145,
+    "profit_usd": 6.032690854119429,
+    "timestamp": "2026-08-22T09:35:37.230574+00:00",
+    "status": "pending"
   }
 ]
