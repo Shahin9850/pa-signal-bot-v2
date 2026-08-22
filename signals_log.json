@@ -8454,5 +8454,31 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T10:44:39.457812+00:00",
     "status": "pending"
+  },
+  {
+    "id": "d3000519-4634-4e4b-a2a5-61c1d8b1e69f",
+    "symbol": "ADAUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.2211,
+    "sl": 0.26096785714285714,
+    "tp": 0.1413642857142857,
+    "stop_distance_pct": 18.031595270401244,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 3.6063190540802488,
+    "profit_usd": 7.2126381081604976,
+    "timestamp": "2026-08-22T11:04:08.174416+00:00",
+    "status": "pending"
   }
 ]
