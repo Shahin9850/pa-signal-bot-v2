@@ -8532,5 +8532,83 @@
     "profit_usd": 6.688079258549059,
     "timestamp": "2026-08-22T12:01:42.085016+00:00",
     "status": "pending"
+  },
+  {
+    "id": "1e656778-e311-4e46-854a-55a51f501f88",
+    "symbol": "BTCUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 77316.36,
+    "sl": 78991.81982142857,
+    "tp": 73965.44035714287,
+    "stop_distance_pct": 2.167018495734364,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.5,
+    "position_usd": 69.21952918042247,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T12:58:39.118707+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "8eced333-eaeb-43fe-8fe6-7824cfabc158",
+    "symbol": "ADAUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.226,
+    "sl": 0.2609357142857143,
+    "tp": 0.15612857142857137,
+    "stop_distance_pct": 15.458280657395719,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 3.0916561314791435,
+    "profit_usd": 6.183312262958287,
+    "timestamp": "2026-08-22T12:58:53.528162+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "6dc1c1a3-7ab5-4b20-8ac8-7afe9245c172",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 11.879,
+    "sl": 10.850160714285714,
+    "tp": 13.93667857142857,
+    "stop_distance_pct": 8.660992387526607,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 1.7321984775053214,
+    "profit_usd": 3.464396955010643,
+    "timestamp": "2026-08-22T12:58:55.894693+00:00",
+    "status": "pending"
   }
 ]
