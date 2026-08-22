@@ -981,7 +981,8 @@
     "risk_usd": 1.644134248501018,
     "profit_usd": 3.288268497002036,
     "timestamp": "2026-08-19T21:33:08.019307+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-22T21:39:07.528171+00:00"
   },
   {
     "id": "54c503b2-e4bc-4e96-a205-e5e8dd05fbe3",
@@ -1009,7 +1010,8 @@
     "risk_usd": 3.335492716086908,
     "profit_usd": 6.670985432173816,
     "timestamp": "2026-08-19T21:33:10.306040+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-22T21:39:07.528171+00:00"
   },
   {
     "id": "23c9f409-8a93-4303-8a2c-407860ccba60",
@@ -1037,7 +1039,8 @@
     "risk_usd": 2.4135121790651737,
     "profit_usd": 4.827024358130347,
     "timestamp": "2026-08-19T21:33:17.089117+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-22T21:39:07.528171+00:00"
   },
   {
     "id": "310b4272-9b1a-43db-bbf2-0bd9c9070ae6",
@@ -9816,6 +9819,61 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T21:04:36.539994+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "06a03402-605a-44f9-bf73-6c8676b8fb71",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 693.59,
+    "sl": 686.6908928571429,
+    "tp": 707.3882142857143,
+    "stop_distance_pct": 0.9946953016706027,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 7.5,
+    "position_usd": 150.79994823346726,
+    "risk_usd": 1.4999999999999998,
+    "profit_usd": 2.9999999999999996,
+    "timestamp": "2026-08-22T21:40:34.382467+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "4c9e3bc7-252f-4275-9c36-271e50c83f2d",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 96,
+    "entry": 7.471,
+    "sl": 7.390964285714285,
+    "tp": 7.631071428571429,
+    "stop_distance_pct": 1.071285159760603,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 7.0,
+    "position_usd": 140.01874163319883,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-22T21:40:44.099696+00:00",
     "status": "pending"
   }
 ]
