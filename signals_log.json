@@ -10519,5 +10519,31 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T05:38:13.664854+00:00",
     "status": "pending"
+  },
+  {
+    "id": "493cb952-9ccb-4960-8939-8934fa950f53",
+    "symbol": "BTCUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 76042.47,
+    "sl": 77490.40607142857,
+    "tp": 73146.59785714286,
+    "stop_distance_pct": 1.9041149918309759,
+    "actual_rr": 2.0,
+    "reasons": [
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.9,
+    "position_usd": 78.77675489323344,
+    "risk_usd": 1.4999999999999998,
+    "profit_usd": 2.9999999999999996,
+    "timestamp": "2026-08-23T06:06:10.151122+00:00",
+    "status": "pending"
   }
 ]
