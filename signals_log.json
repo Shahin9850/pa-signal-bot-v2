@@ -12694,5 +12694,112 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T22:36:54.463992+00:00",
     "status": "pending"
+  },
+  {
+    "id": "ae4fb7b0-8787-4e9d-89a7-26c0a7e6a28b",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 1.512,
+    "sl": 1.481342857142857,
+    "tp": 1.5733142857142859,
+    "stop_distance_pct": 2.027588813303104,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.7,
+    "position_usd": 73.97949673811723,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T23:03:33.664895+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "52d250d7-a858-4ab0-80ee-fdb941644302",
+    "symbol": "ADAUSDT",
+    "direction": "SELL",
+    "confidence": 87,
+    "entry": 0.2261,
+    "sl": 0.23148035714285714,
+    "tp": 0.2153392857142857,
+    "stop_distance_pct": 2.3796360649522974,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.2,
+    "position_usd": 63.034848987719855,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T23:03:42.440890+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "5faec17e-bb3a-4a96-ab54-78a1e5912ead",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 11.513,
+    "sl": 11.209821428571427,
+    "tp": 12.119357142857146,
+    "stop_distance_pct": 2.633358563611334,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.8,
+    "position_usd": 56.96147956178557,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T23:03:44.863435+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "de5ccd84-d70c-43e3-b852-2a958115eb93",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 70,
+    "entry": 7.598,
+    "sl": 7.493428571428572,
+    "tp": 7.807142857142856,
+    "stop_distance_pct": 1.3763020343699406,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.4,
+    "position_usd": 108.98770491803329,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T23:03:47.314838+00:00",
+    "status": "pending"
   }
 ]
