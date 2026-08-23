@@ -10220,5 +10220,87 @@
     "profit_usd": 3.0000000000000004,
     "timestamp": "2026-08-23T01:57:50.628119+00:00",
     "status": "pending"
+  },
+  {
+    "id": "34c849aa-1601-4386-9153-2c6cfc377769",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 1.4799,
+    "sl": 1.4379785714285713,
+    "tp": 1.5637428571428573,
+    "stop_distance_pct": 2.832720357553123,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.6,
+    "position_usd": 52.95263247571977,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T03:13:28.331371+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "9e6e32cf-4e6f-44ea-a46c-fae4eef8c7b8",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 94.76,
+    "sl": 92.26589285714286,
+    "tp": 99.7482142857143,
+    "stop_distance_pct": 2.632025266839538,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.8,
+    "position_usd": 56.99033435956175,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T03:13:30.640080+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "498a9944-9e21-434b-b8bd-82de7c4259dc",
+    "symbol": "DOGEUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 0.09166,
+    "sl": 0.0903469642857143,
+    "tp": 0.09428607142857141,
+    "stop_distance_pct": 1.4325067797138382,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.2,
+    "position_usd": 104.71154630763036,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T03:13:32.932135+00:00",
+    "status": "pending"
   }
 ]
