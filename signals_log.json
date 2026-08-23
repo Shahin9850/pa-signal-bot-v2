@@ -10854,5 +10854,112 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T08:41:06.586397+00:00",
     "status": "pending"
+  },
+  {
+    "id": "9f26ce51-7c6f-4467-81fd-728cb9327885",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 76544.49,
+    "sl": 75439.82803571428,
+    "tp": 78753.81392857146,
+    "stop_distance_pct": 1.4431632692120957,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.2,
+    "position_usd": 103.93834377581787,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T09:12:23.700574+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "6cd547b6-4310-4a86-b8a1-38a28ea67602",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 2412.04,
+    "sl": 2350.4392857142857,
+    "tp": 2535.2414285714285,
+    "stop_distance_pct": 2.5538844416226216,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.9,
+    "position_usd": 58.734059206178046,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T09:12:25.697349+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "dd9e7026-bf4c-4b9e-a846-03b014d342a3",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 93,
+    "entry": 689.3,
+    "sl": 675.5039285714286,
+    "tp": 716.8921428571427,
+    "stop_distance_pct": 2.001461109614304,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.7,
+    "position_usd": 74.94524838851659,
+    "risk_usd": 1.5000000000000002,
+    "profit_usd": 3.0000000000000004,
+    "timestamp": "2026-08-23T09:12:27.598835+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "a65210b2-2e73-4582-bbd8-74be2e823b4b",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 1.48,
+    "sl": 1.4261910714285713,
+    "tp": 1.5876178571428574,
+    "stop_distance_pct": 3.635738416988427,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.1,
+    "position_usd": 41.257093551919716,
+    "risk_usd": 1.5000000000000002,
+    "profit_usd": 3.0000000000000004,
+    "timestamp": "2026-08-23T09:12:29.507950+00:00",
+    "status": "pending"
   }
 ]
