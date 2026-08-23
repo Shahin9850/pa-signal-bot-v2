@@ -11792,5 +11792,57 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T16:46:49.536864+00:00",
     "status": "pending"
+  },
+  {
+    "id": "f2797b46-0975-4703-b4dc-9083f97c9688",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 1.5133,
+    "sl": 1.4492767857142859,
+    "tp": 1.6413464285714285,
+    "stop_distance_pct": 4.230702060775406,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.8,
+    "position_usd": 35.45510835913316,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T17:11:41.234776+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "54d7352e-2d57-4300-a517-3e76a90e8165",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 11.514,
+    "sl": 11.202946428571428,
+    "tp": 12.136107142857142,
+    "stop_distance_pct": 2.7015248517332933,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.8,
+    "position_usd": 55.52419771513865,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T17:11:51.166618+00:00",
+    "status": "pending"
   }
 ]
