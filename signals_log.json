@@ -1603,7 +1603,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-20T10:15:54.827602+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-23T10:31:23.431758+00:00"
   },
   {
     "id": "69a96199-7ed6-4177-9617-cc378fce88ef",
@@ -10629,7 +10630,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T07:06:07.414290+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-23T10:31:23.431758+00:00"
   },
   {
     "id": "01b5ca2e-881b-4cf7-a86f-e477eae7687f",
@@ -11066,6 +11068,60 @@
     "risk_usd": 1.4999999999999998,
     "profit_usd": 2.9999999999999996,
     "timestamp": "2026-08-23T09:48:12.825377+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "a15d8103-cce3-4f9e-8129-5383a9381f00",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 2416.34,
+    "sl": 2350.4064285714285,
+    "tp": 2548.2071428571435,
+    "stop_distance_pct": 2.728654553108075,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.7,
+    "position_usd": 54.97214729110449,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T10:33:23.568075+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "fa936afc-5991-494e-aead-617f4d46bc5e",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 1.4928,
+    "sl": 1.4260267857142856,
+    "tp": 1.6263464285714284,
+    "stop_distance_pct": 4.473018105956207,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.7,
+    "position_usd": 33.534404835129585,
+    "risk_usd": 1.5000000000000002,
+    "profit_usd": 3.0000000000000004,
+    "timestamp": "2026-08-23T10:33:28.240592+00:00",
     "status": "pending"
   }
 ]
