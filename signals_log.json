@@ -9424,7 +9424,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T18:01:36.954655+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-23T04:04:36.171461+00:00"
   },
   {
     "id": "ae25d685-4153-4d43-beb3-e15539d066b0",
@@ -9504,7 +9505,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T18:46:38.831308+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-23T04:04:36.171461+00:00"
   },
   {
     "id": "1edd5d5b-f7b1-418d-8c6a-340d3a7efa3b",
@@ -9582,7 +9584,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T19:13:35.051402+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-23T04:04:36.171461+00:00"
   },
   {
     "id": "fb759a77-c4a6-4875-94b9-99a240c84514",
@@ -9662,7 +9665,8 @@
     "risk_usd": 1.4999999999999998,
     "profit_usd": 2.9999999999999996,
     "timestamp": "2026-08-22T19:41:29.967671+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-23T04:04:36.171461+00:00"
   },
   {
     "id": "7d288179-a64b-4201-82b8-a247eacd4b90",
@@ -9715,7 +9719,8 @@
     "risk_usd": 1.4999999999999998,
     "profit_usd": 2.9999999999999996,
     "timestamp": "2026-08-22T20:00:55.571330+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-23T04:04:36.171461+00:00"
   },
   {
     "id": "19cb0366-f89f-4e85-8734-48ab01a7947d",
@@ -9743,7 +9748,8 @@
     "risk_usd": 1.5000000000000002,
     "profit_usd": 3.0000000000000004,
     "timestamp": "2026-08-22T20:37:28.763605+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-23T04:04:36.171461+00:00"
   },
   {
     "id": "10368c3f-9bc7-4b19-b48a-06797bb5f81e",
@@ -9878,7 +9884,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T21:40:44.099696+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-23T04:04:36.171461+00:00"
   },
   {
     "id": "b320357b-4369-495f-ab50-72e306d05e0e",
@@ -9991,7 +9998,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T22:35:30.446929+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-23T04:04:36.171461+00:00"
   },
   {
     "id": "365f112b-fbd3-4cce-92c3-42db6eacf8e1",
@@ -10021,7 +10029,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T22:35:32.442130+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-23T04:04:36.171461+00:00"
   },
   {
     "id": "fafd69eb-2674-4bb9-8d23-c095a119060c",
@@ -10301,6 +10310,62 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T03:13:32.932135+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "592ffee7-18ec-45b1-92e8-b5eb1cfe9f42",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 84,
+    "entry": 1.4762,
+    "sl": 1.4386607142857142,
+    "tp": 1.5512785714285715,
+    "stop_distance_pct": 2.5429674647260385,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "liquidity_grab"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.9,
+    "position_usd": 58.98620492817039,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T04:06:28.304306+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "ce6135ed-84c4-4e9d-8f8f-7951c51b5f63",
+    "symbol": "DOGEUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 0.09113,
+    "sl": 0.08982553571428571,
+    "tp": 0.09373892857142858,
+    "stop_distance_pct": 1.4314323337147927,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "order_block",
+      "liquidity_grab"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.2,
+    "position_usd": 104.79014373716592,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T04:06:31.932656+00:00",
     "status": "pending"
   }
 ]
