@@ -12228,5 +12228,83 @@
     "profit_usd": 3.0000000000000044,
     "timestamp": "2026-08-23T19:40:30.311168+00:00",
     "status": "pending"
+  },
+  {
+    "id": "64b4cdd5-1aa2-48b0-afaf-e3301c21cc48",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 1.4986,
+    "sl": 1.4503178571428572,
+    "tp": 1.5951642857142854,
+    "stop_distance_pct": 3.2218165525919336,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.3,
+    "position_usd": 46.55758562023832,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T20:01:10.381811+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "0a6cebec-4fb4-4969-b9a8-8a28feaa8dc7",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 11.487,
+    "sl": 11.212124999999999,
+    "tp": 12.036750000000003,
+    "stop_distance_pct": 2.3929224340559023,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.1,
+    "position_usd": 62.68485675306923,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T20:01:19.025144+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "a6f70785-f6b1-4603-a0bb-88ea59baae48",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 7.541,
+    "sl": 7.2557857142857145,
+    "tp": 8.111428571428572,
+    "stop_distance_pct": 3.7821812188607065,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.0,
+    "position_usd": 39.659654395191566,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T20:01:21.207657+00:00",
+    "status": "pending"
   }
 ]
