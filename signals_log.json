@@ -10771,5 +10771,88 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T07:51:09.570214+00:00",
     "status": "pending"
+  },
+  {
+    "id": "e3d32fc2-d668-4b69-9473-ae94da429681",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 2420.83,
+    "sl": 2350.2398214285713,
+    "tp": 2562.010357142857,
+    "stop_distance_pct": 2.9159494293869717,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.6,
+    "position_usd": 51.4412213354245,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T08:41:02.402764+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "d233cf94-f7e4-4180-88d6-e644e0d857bc",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 94,
+    "entry": 689.3,
+    "sl": 675.4907142857143,
+    "tp": 716.9185714285713,
+    "stop_distance_pct": 2.0033781683281147,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.7,
+    "position_usd": 74.87353230228118,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T08:41:04.543333+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "58d19460-1159-4d64-8bc9-7513323e1cb3",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 1.479,
+    "sl": 1.4381499999999998,
+    "tp": 1.5607000000000006,
+    "stop_distance_pct": 2.762001352265062,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.7,
+    "position_usd": 54.30844553243538,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-23T08:41:06.586397+00:00",
+    "status": "pending"
   }
 ]
