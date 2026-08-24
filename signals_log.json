@@ -13313,5 +13313,89 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T05:07:06.342415+00:00",
     "status": "pending"
+  },
+  {
+    "id": "0b1100c1-a105-4af9-a4fc-53fdb2277507",
+    "symbol": "BTCUSDT",
+    "direction": "SELL",
+    "confidence": 69,
+    "entry": 77154.0,
+    "sl": 78171.33714285714,
+    "tp": 75119.32571428572,
+    "stop_distance_pct": 1.3185799088279815,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)",
+      "⚠️ برخی سیگنال‌ها در تناقض بودند؛ امتیاز اطمینان کاهش یافت"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.7,
+    "position_usd": 113.7587483289711,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T05:58:12.069073+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "26b760f0-77e6-4114-bc30-c90a7277c935",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 11.506,
+    "sl": 11.253910714285714,
+    "tp": 12.010178571428572,
+    "stop_distance_pct": 2.1909376474386044,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.4,
+    "position_usd": 68.46383792590491,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T05:58:26.487555+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "874fd97d-4c96-421b-a3f4-e217407dd32f",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 85,
+    "entry": 7.494,
+    "sl": 7.373625,
+    "tp": 7.73475,
+    "stop_distance_pct": 1.6062850280224195,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.7,
+    "position_usd": 93.38317757009337,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T05:58:28.609244+00:00",
+    "status": "pending"
   }
 ]
