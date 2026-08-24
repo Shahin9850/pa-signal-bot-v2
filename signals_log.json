@@ -13397,5 +13397,33 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T05:58:28.609244+00:00",
     "status": "pending"
+  },
+  {
+    "id": "94c5def9-4225-4596-bba2-37d13f615c40",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 85,
+    "entry": 7.519,
+    "sl": 7.373410714285714,
+    "tp": 7.8101785714285725,
+    "stop_distance_pct": 1.9362852202990584,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.9,
+    "position_usd": 77.46792591684017,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T07:16:28.039689+00:00",
+    "status": "pending"
   }
 ]
