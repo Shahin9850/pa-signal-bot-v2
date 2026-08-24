@@ -13139,5 +13139,125 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T03:14:22.552315+00:00",
     "status": "pending"
+  },
+  {
+    "id": "34d8bdbe-c378-4eb6-99d2-5776a01c5878",
+    "symbol": "BTCUSDT",
+    "direction": "SELL",
+    "confidence": 69,
+    "entry": 77000.12,
+    "sl": 78164.55607142858,
+    "tp": 74671.24785714282,
+    "stop_distance_pct": 1.5122522814621417,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)",
+      "⚠️ برخی سیگنال‌ها در تناقض بودند؛ امتیاز اطمینان کاهش یافت"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.0,
+    "position_usd": 99.18979910876409,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T04:12:01.502318+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "b916f137-bc17-457f-86be-4798c01bd600",
+    "symbol": "SOLUSDT",
+    "direction": "SELL",
+    "confidence": 94,
+    "entry": 93.74,
+    "sl": 96.49607142857143,
+    "tp": 88.22785714285713,
+    "stop_distance_pct": 2.940123136944134,
+    "actual_rr": 2.0,
+    "reasons": [
+      "نشانه تغییر روند به نزولی (CHoCH) در ۱ساعته",
+      "الگوی کندلی نزولی شناسایی شد (bearish_pin)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)"
+    ],
+    "factors": [
+      "choch_1h",
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.6,
+    "position_usd": 51.018271348969755,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T04:12:10.110289+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "92fa79e4-1087-4bfc-97f3-00000faf09a6",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 86,
+    "entry": 11.38,
+    "sl": 11.212357142857142,
+    "tp": 11.715285714285718,
+    "stop_distance_pct": 1.473135827265894,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.1,
+    "position_usd": 101.82360460161811,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T04:12:18.791903+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "f91051dc-c1c5-4a0b-8ede-2689ce040d0e",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 69,
+    "entry": 7.461,
+    "sl": 7.398107142857143,
+    "tp": 7.586785714285714,
+    "stop_distance_pct": 0.8429547934976124,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "نشانه تغییر روند به نزولی (CHoCH) در ۱ساعته",
+      "الگوی کندلی نزولی شناسایی شد (bearish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)",
+      "⚠️ برخی سیگنال‌ها در تناقض بودند؛ امتیاز اطمینان کاهش یافت"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 8.9,
+    "position_usd": 177.94548551959195,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T04:12:21.157195+00:00",
+    "status": "pending"
   }
 ]
