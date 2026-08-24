@@ -6401,7 +6401,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T23:10:32.079250+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T23:39:59.613035+00:00"
   },
   {
     "id": "2a8e8875-a156-4e7d-8878-ef6583dba16c",
@@ -6427,7 +6428,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T23:10:34.057749+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T23:39:59.613035+00:00"
   },
   {
     "id": "96e5be69-a148-49af-95eb-4f945c3bfabe",
@@ -6514,7 +6516,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T23:10:41.474780+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T23:39:59.613035+00:00"
   },
   {
     "id": "8b2ee5f7-29a7-4689-b164-fb029f8a82c3",
@@ -14898,6 +14901,62 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T23:05:29.921994+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "960bf228-380f-4a5e-b04b-a1666ff89ffa",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 79,
+    "entry": 703.77,
+    "sl": 697.0567857142856,
+    "tp": 717.1964285714287,
+    "stop_distance_pct": 0.9538932159248538,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 7.9,
+    "position_usd": 157.25030589987628,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T23:42:18.655011+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "be46d893-1124-4fe3-b650-cb23b3f9fa9c",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 79,
+    "entry": 98.56,
+    "sl": 94.43017857142857,
+    "tp": 106.81964285714287,
+    "stop_distance_pct": 4.190159728664197,
+    "actual_rr": 2.0,
+    "reasons": [
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "bos_1h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.8,
+    "position_usd": 35.79815799714616,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T23:42:22.689699+00:00",
     "status": "pending"
   }
 ]
