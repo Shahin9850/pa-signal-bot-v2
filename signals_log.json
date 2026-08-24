@@ -13500,7 +13500,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T08:10:14.018993+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-24T12:04:23.409170+00:00"
   },
   {
     "id": "c5a9a516-b348-42a8-a6ef-21d46e80431e",
@@ -13667,7 +13668,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T10:58:04.983655+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-24T12:04:23.409170+00:00"
   },
   {
     "id": "6cbf4280-8e5d-4b40-85b0-aaa8dbdb3b71",
@@ -13801,6 +13803,90 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T11:39:44.457247+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "e4f07803-de9d-43c2-bbde-150379642fc7",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 105,
+    "entry": 2485.6,
+    "sl": 2418.437857142857,
+    "tp": 2619.924285714286,
+    "stop_distance_pct": 2.702049519518143,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "جمع‌آوری نقدینگی بالای سقف قبلی و بازگشت (Liquidity Grab نزولی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.8,
+    "position_usd": 55.5134163591308,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T12:06:15.188227+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "4474de35-bcdc-419f-9f59-c0418b6e8a74",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 79,
+    "entry": 701.82,
+    "sl": 691.5398214285715,
+    "tp": 722.3803571428572,
+    "stop_distance_pct": 1.4647884887048763,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)",
+      "جمع‌آوری نقدینگی بالای سقف قبلی و بازگشت (Liquidity Grab نزولی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.1,
+    "position_usd": 102.40386319025872,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T12:06:17.283027+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "4c3c1656-d9fc-41f6-9297-cbe1d193182a",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 11.683,
+    "sl": 11.321607142857143,
+    "tp": 12.405785714285713,
+    "stop_distance_pct": 3.0933224098506944,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.4,
+    "position_usd": 48.491550548473235,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T12:06:26.545897+00:00",
     "status": "pending"
   }
 ]
