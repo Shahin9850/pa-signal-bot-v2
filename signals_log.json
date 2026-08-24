@@ -5776,7 +5776,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T21:43:34.068407+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T21:48:22.923363+00:00"
   },
   {
     "id": "09d4abce-2be3-4367-b2d6-0de7907b2f29",
@@ -5805,7 +5806,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T21:43:36.035180+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T21:48:22.923363+00:00"
   },
   {
     "id": "3b733184-a7ed-4987-826b-3037e60d1769",
@@ -5832,7 +5834,8 @@
     "risk_usd": 2.795078552120804,
     "profit_usd": 5.590157104241608,
     "timestamp": "2026-08-21T21:43:38.008336+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T21:48:22.923363+00:00"
   },
   {
     "id": "e8e5f6ae-4112-4bff-9373-8a9d3d124360",
@@ -5887,7 +5890,8 @@
     "risk_usd": 1.970030902445529,
     "profit_usd": 3.940061804891058,
     "timestamp": "2026-08-21T21:43:41.953745+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T21:48:22.923363+00:00"
   },
   {
     "id": "5c8a36db-2a8a-4164-8e12-357e202a8e6a",
@@ -14751,6 +14755,34 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T21:15:56.442241+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "4262925c-ec04-4423-ba72-de847ea7dbd8",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 79,
+    "entry": 704.59,
+    "sl": 696.9980357142857,
+    "tp": 719.7739285714287,
+    "stop_distance_pct": 1.0775009985543809,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 7.0,
+    "position_usd": 139.21100787957144,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T21:50:29.586477+00:00",
     "status": "pending"
   }
 ]
