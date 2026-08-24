@@ -4033,7 +4033,8 @@
     "risk_usd": 1.5129284800918044,
     "profit_usd": 3.0258569601836087,
     "timestamp": "2026-08-21T08:09:26.508082+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T09:07:14.723185+00:00"
   },
   {
     "id": "98ec5c06-356a-4cb6-8f41-adbbda6a04f9",
@@ -4061,7 +4062,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T08:09:31.068649+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T09:07:14.723185+00:00"
   },
   {
     "id": "84570172-f2b9-4ebc-a0d6-53c9e9e9e268",
@@ -4146,7 +4148,8 @@
     "risk_usd": 1.9679356865644069,
     "profit_usd": 3.9358713731288137,
     "timestamp": "2026-08-21T08:09:44.909548+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T09:07:14.723185+00:00"
   },
   {
     "id": "21dbdb0b-cf85-4583-8943-30faa7594edf",
@@ -4174,7 +4177,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T09:01:24.608382+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T09:07:14.723185+00:00"
   },
   {
     "id": "a6636133-a229-4596-9c08-242327376535",
@@ -4202,7 +4206,8 @@
     "risk_usd": 2.408669179472311,
     "profit_usd": 4.817338358944622,
     "timestamp": "2026-08-21T09:01:28.609127+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T09:07:14.723185+00:00"
   },
   {
     "id": "9ef918f5-2394-4678-979c-365c31682e97",
@@ -4231,7 +4236,8 @@
     "risk_usd": 1.9915676740321289,
     "profit_usd": 3.9831353480642577,
     "timestamp": "2026-08-21T09:01:38.071808+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T09:07:14.723185+00:00"
   },
   {
     "id": "86ea3496-750c-4d94-accc-136b66cf8125",
@@ -13510,6 +13516,92 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T08:10:20.395042+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "8b2ced1f-0a94-4e33-aee4-f374bb7bde52",
+    "symbol": "BTCUSDT",
+    "direction": "SELL",
+    "confidence": 68,
+    "entry": 77224.02,
+    "sl": 78181.88142857143,
+    "tp": 75308.29714285715,
+    "stop_distance_pct": 1.2403672180902112,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)",
+      "⚠️ برخی سیگنال‌ها در تناقض بودند؛ امتیاز اطمینان کاهش یافت"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 6.0,
+    "position_usd": 120.93192871620265,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T09:09:10.852660+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "89e8bc0a-7995-44ee-b25a-430c07d450f2",
+    "symbol": "DOGEUSDT",
+    "direction": "BUY",
+    "confidence": 84,
+    "entry": 0.09128,
+    "sl": 0.09004178571428571,
+    "tp": 0.09375642857142857,
+    "stop_distance_pct": 1.3565011894328298,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.5,
+    "position_usd": 110.5785982117103,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T09:09:18.856832+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "53928415-4f57-4a2f-be4f-24ff49dec17c",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 84,
+    "entry": 7.496,
+    "sl": 7.372678571428571,
+    "tp": 7.74264285714286,
+    "stop_distance_pct": 1.6451631346241953,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.6,
+    "position_usd": 91.17636837532498,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T09:09:25.323075+00:00",
     "status": "pending"
   }
 ]
