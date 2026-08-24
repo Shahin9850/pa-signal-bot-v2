@@ -5294,7 +5294,8 @@
     "risk_usd": 2.590865651396511,
     "profit_usd": 5.181731302793022,
     "timestamp": "2026-08-21T18:15:08.250790+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T19:06:16.991247+00:00"
   },
   {
     "id": "09c5901a-4063-4bd0-9a9e-5068187b2646",
@@ -14552,6 +14553,58 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T18:16:52.365419+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "ad0060fd-6f25-4f01-9869-dd98fb2413ad",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.08872,
+    "sl": 0.0937975,
+    "tp": 0.07856499999999997,
+    "stop_distance_pct": 5.723061316501367,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.3,
+    "position_usd": 26.20974889217128,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T19:08:14.403475+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "1c83c1f0-e9b3-47bb-b79e-723c325b7ae9",
+    "symbol": "ADAUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.2183,
+    "sl": 0.22858571428571428,
+    "tp": 0.19772857142857142,
+    "stop_distance_pct": 4.711733525292848,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.6,
+    "position_usd": 31.835416666666664,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T19:08:17.912749+00:00",
     "status": "pending"
   }
 ]
