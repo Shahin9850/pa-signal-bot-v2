@@ -3858,7 +3858,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T07:26:51.632657+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T08:07:24.290543+00:00"
   },
   {
     "id": "e9fca46e-09d8-48cd-b2f2-534bd7cd6f98",
@@ -3974,7 +3975,8 @@
     "risk_usd": 1.5917146376410838,
     "profit_usd": 3.1834292752821676,
     "timestamp": "2026-08-21T07:27:07.339073+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T08:07:24.290543+00:00"
   },
   {
     "id": "c0ae5831-8afc-4fa8-afba-2d738bb434ed",
@@ -13424,6 +13426,90 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T07:16:28.039689+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "7ab67f09-ab6c-4dff-833a-bb3ea28a96c3",
+    "symbol": "BTCUSDT",
+    "direction": "SELL",
+    "confidence": 84,
+    "entry": 77342.01,
+    "sl": 78175.93589285715,
+    "tp": 75674.1582142857,
+    "stop_distance_pct": 1.078231471947976,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 7.0,
+    "position_usd": 139.1166960921703,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T08:10:09.529550+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "6aabcdf3-0b94-483f-80d3-93e743aa9f08",
+    "symbol": "BNBUSDT",
+    "direction": "SELL",
+    "confidence": 68,
+    "entry": 696.84,
+    "sl": 706.2841071428571,
+    "tp": 677.9517857142858,
+    "stop_distance_pct": 1.3552762675588501,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)",
+      "⚠️ برخی سیگنال‌ها در تناقض بودند؛ امتیاز اطمینان کاهش یافت"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.5,
+    "position_usd": 110.67854104033188,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T08:10:14.018993+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "c5a9a516-b348-42a8-a6ef-21d46e80431e",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.09107,
+    "sl": 0.09347232142857144,
+    "tp": 0.08626535714285712,
+    "stop_distance_pct": 2.637884515835556,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.8,
+    "position_usd": 56.863747862929905,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T08:10:20.395042+00:00",
     "status": "pending"
   }
 ]
