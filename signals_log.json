@@ -4454,7 +4454,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T10:38:28.848840+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T10:56:02.444374+00:00"
   },
   {
     "id": "1cda58ee-6bc1-4f62-bc4f-c50452c383f1",
@@ -12159,7 +12160,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T19:12:16.026168+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-24T10:56:02.444374+00:00"
   },
   {
     "id": "a107f12a-cef7-40c0-923b-bc878f6a5459",
@@ -13604,6 +13606,60 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T09:09:25.323075+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "a83fc893-4674-45f7-ba3c-917726227d8c",
+    "symbol": "XRPUSDT",
+    "direction": "SELL",
+    "confidence": 83,
+    "entry": 1.4824,
+    "sl": 1.5102250000000002,
+    "tp": 1.4267499999999995,
+    "stop_distance_pct": 1.877023745277942,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_pin)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.0,
+    "position_usd": 79.91374663072715,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T10:57:58.757251+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "b64b7409-1133-4123-8d98-95c74ac276cc",
+    "symbol": "ADAUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.2188,
+    "sl": 0.2232125,
+    "tp": 0.20997499999999997,
+    "stop_distance_pct": 2.0166819012797137,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.7,
+    "position_usd": 74.3796033994332,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T10:58:04.983655+00:00",
     "status": "pending"
   }
 ]
