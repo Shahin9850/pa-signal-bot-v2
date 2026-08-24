@@ -6172,7 +6172,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T22:45:17.060929+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T23:03:36.820552+00:00"
   },
   {
     "id": "f0f90509-6aef-4101-a02f-034badf9189a",
@@ -6256,7 +6257,8 @@
     "risk_usd": 2.4964201931572387,
     "profit_usd": 4.9928403863144775,
     "timestamp": "2026-08-21T22:45:24.482346+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T23:03:36.820552+00:00"
   },
   {
     "id": "84516918-8891-4a87-96aa-b5345d1417d2",
@@ -6284,7 +6286,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T22:45:26.442045+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T23:03:36.820552+00:00"
   },
   {
     "id": "a9d3757f-1bc3-471f-b083-783ffcd4f4d4",
@@ -14869,6 +14872,32 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T22:37:39.873343+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "074057f3-afd2-4ddd-aeee-054b3657ffb2",
+    "symbol": "XRPUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 1.4722,
+    "sl": 1.5369625,
+    "tp": 1.3426749999999998,
+    "stop_distance_pct": 4.39902866458362,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.7,
+    "position_usd": 34.098436595251854,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T23:05:29.921994+00:00",
     "status": "pending"
   }
 ]
