@@ -5179,7 +5179,8 @@
     "risk_usd": 2.4544993111449513,
     "profit_usd": 4.908998622289903,
     "timestamp": "2026-08-21T17:37:45.914183+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-24T18:15:07.414123+00:00"
   },
   {
     "id": "c9da99c3-f9fe-458b-b4cb-634f6513354c",
@@ -14523,6 +14524,34 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T17:39:49.787464+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "702f6b78-67b7-4159-8d0b-e6848ea908d9",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 80,
+    "entry": 704.68,
+    "sl": 694.7282142857143,
+    "tp": 724.5835714285712,
+    "stop_distance_pct": 1.412241828104334,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.3,
+    "position_usd": 106.21410371433797,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T18:16:52.365419+00:00",
     "status": "pending"
   }
 ]
