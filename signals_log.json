@@ -14607,5 +14607,87 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T19:08:17.912749+00:00",
     "status": "pending"
+  },
+  {
+    "id": "2f71ed8e-078c-4a09-aa5e-85f8d93ea73d",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 79,
+    "entry": 78973.99,
+    "sl": 78260.02392857143,
+    "tp": 80401.92214285715,
+    "stop_distance_pct": 0.904052171390316,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 8.3,
+    "position_usd": 165.9196280335451,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T20:41:23.608864+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "fe24a613-9338-4d4d-90e1-380a535cf8d1",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 2475.51,
+    "sl": 2447.2507142857144,
+    "tp": 2532.028571428572,
+    "stop_distance_pct": 1.1415540924611838,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 6.6,
+    "position_usd": 131.39981801177805,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T20:41:25.640577+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "7320f585-6a82-40e2-8495-3914869e0a01",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 79,
+    "entry": 703.45,
+    "sl": 696.9387499999999,
+    "tp": 716.4725000000003,
+    "stop_distance_pct": 0.9256166038808916,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 8.1,
+    "position_usd": 162.0541370704517,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-24T20:41:27.614350+00:00",
+    "status": "pending"
   }
 ]
