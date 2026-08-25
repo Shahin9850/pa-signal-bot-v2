@@ -9388,7 +9388,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T17:41:00.132370+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T18:15:15.157538+00:00"
   },
   {
     "id": "c1304ed0-1739-4434-abb5-ca5a017c0e40",
@@ -9499,7 +9500,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T18:01:25.513837+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T18:15:15.157538+00:00"
   },
   {
     "id": "5dea93bc-c77a-4795-88e3-6f82d9df3a08",
@@ -16642,6 +16644,58 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T17:41:22.682838+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "957a9560-48a9-4dbf-ac40-951c47b02851",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 79306.0,
+    "sl": 77956.09321428572,
+    "tp": 82005.81357142856,
+    "stop_distance_pct": 1.7021496301847023,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.4,
+    "position_usd": 88.12386252066648,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T18:16:42.858199+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "114d1354-f808-4efe-bdfa-adae8bbc1084",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.08879,
+    "sl": 0.09339660714285715,
+    "tp": 0.07957678571428568,
+    "stop_distance_pct": 5.18820491368077,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.4,
+    "position_usd": 28.911733922549054,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T18:16:53.003107+00:00",
     "status": "pending"
   }
 ]
