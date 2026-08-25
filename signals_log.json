@@ -7625,7 +7625,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T04:44:34.711848+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T04:56:21.035225+00:00"
   },
   {
     "id": "dedc279e-898a-4d00-9c54-d25aa3884971",
@@ -7653,7 +7654,8 @@
     "risk_usd": 1.52000082790595,
     "profit_usd": 3.0400016558119,
     "timestamp": "2026-08-22T04:44:36.749507+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T04:56:21.035225+00:00"
   },
   {
     "id": "c4310d31-b2d3-42a7-a2fc-3f971d09cd44",
@@ -7681,7 +7683,8 @@
     "risk_usd": 3.648084256400942,
     "profit_usd": 7.296168512801884,
     "timestamp": "2026-08-22T04:44:38.732319+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T04:56:21.035225+00:00"
   },
   {
     "id": "3144d7b5-b984-40ce-848e-70407c40d8ea",
@@ -7736,7 +7739,8 @@
     "risk_usd": 3.6723153789215965,
     "profit_usd": 7.344630757843193,
     "timestamp": "2026-08-22T04:44:42.728615+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T04:56:21.035225+00:00"
   },
   {
     "id": "1f46443d-18ad-4b33-adbe-ec77eef1a08d",
@@ -7764,7 +7768,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T04:44:44.695757+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T04:56:21.035225+00:00"
   },
   {
     "id": "afe33b75-0432-4671-852b-d4a79cc00405",
@@ -15443,6 +15448,34 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T04:04:18.261202+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "77ba9565-2499-4de2-ab90-abc81ee85216",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 80274.0,
+    "sl": 78300.75821428571,
+    "tp": 84220.48357142857,
+    "stop_distance_pct": 2.4581331261856723,
+    "actual_rr": 2.0,
+    "reasons": [
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "bos_1h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.1,
+    "position_usd": 61.02191878954807,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T04:58:02.247914+00:00",
     "status": "pending"
   }
 ]
