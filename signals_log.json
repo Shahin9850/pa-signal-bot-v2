@@ -9167,7 +9167,8 @@
     "risk_usd": 1.4999999999999998,
     "profit_usd": 2.9999999999999996,
     "timestamp": "2026-08-22T16:38:11.601093+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T16:58:04.588309+00:00"
   },
   {
     "id": "548f29be-4191-4608-a7a8-9187193ca3c9",
@@ -16325,6 +16326,88 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T16:04:16.841851+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "e18e9625-a26a-4f8e-8e9a-973d9236260a",
+    "symbol": "ETHUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 2470.27,
+    "sl": 2521.369107142857,
+    "tp": 2368.071785714286,
+    "stop_distance_pct": 2.0685636445755753,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.6,
+    "position_usd": 72.51408502385082,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T16:59:13.358685+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "cfee8985-2cbd-4b39-9d42-1448753fdb50",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 100,
+    "entry": 0.08899,
+    "sl": 0.09341339285714287,
+    "tp": 0.08014321428571426,
+    "stop_distance_pct": 4.970662835310562,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.5,
+    "position_usd": 30.177061886883777,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T16:59:20.483649+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "32ffde5e-da44-4ee9-a359-b51425bdd291",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 79,
+    "entry": 7.465,
+    "sl": 7.300767857142858,
+    "tp": 7.793464285714284,
+    "stop_distance_pct": 2.2000287053870364,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.4,
+    "position_usd": 68.1809285636623,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T16:59:27.527763+00:00",
     "status": "pending"
   }
 ]
