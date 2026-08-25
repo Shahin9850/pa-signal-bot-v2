@@ -8263,7 +8263,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T08:51:38.366607+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T09:02:36.154566+00:00"
   },
   {
     "id": "34853bd3-3bb1-48ec-bb05-d727339f6de9",
@@ -8289,7 +8290,8 @@
     "risk_usd": 2.303569472481731,
     "profit_usd": 4.607138944963462,
     "timestamp": "2026-08-22T08:51:45.059657+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T09:02:36.154566+00:00"
   },
   {
     "id": "1207363f-e74e-4d6f-b191-587cb9dfabb9",
@@ -8315,7 +8317,8 @@
     "risk_usd": 2.9959093769666465,
     "profit_usd": 5.991818753933293,
     "timestamp": "2026-08-22T08:51:49.584109+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T09:02:36.154566+00:00"
   },
   {
     "id": "b530ff61-27c2-4177-8767-734a28b9644f",
@@ -15622,5 +15625,32 @@
     "timestamp": "2026-08-25T07:28:30.455388+00:00",
     "status": "loss",
     "closed_at": "2026-08-25T08:11:20.719762+00:00"
+  },
+  {
+    "id": "47c9cd4b-1aaa-440d-a40b-b760415a0563",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 70,
+    "entry": 0.09076,
+    "sl": 0.09339910714285715,
+    "tp": 0.08548178571428568,
+    "stop_distance_pct": 2.907786627211501,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.6,
+    "position_usd": 51.58562825630932,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T09:04:51.677702+00:00",
+    "status": "pending"
   }
 ]
