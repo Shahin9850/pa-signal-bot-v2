@@ -6633,7 +6633,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T23:43:20.777987+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T00:00:57.728400+00:00"
   },
   {
     "id": "37c6af36-b6b5-4591-af3c-77d84f23f816",
@@ -6748,7 +6749,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-21T23:43:30.600288+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T00:00:57.728400+00:00"
   },
   {
     "id": "3d9e7899-829a-4b05-aa70-cfc9c8790d8e",
@@ -14957,6 +14959,142 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T23:42:22.689699+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "0079f52e-7268-4b1f-87bb-495c4e1633a1",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 79,
+    "entry": 704.62,
+    "sl": 697.0953571428571,
+    "tp": 719.6692857142858,
+    "stop_distance_pct": 1.0679008340868708,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 7.0,
+    "position_usd": 140.46248042147135,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T00:03:20.557198+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "082c649d-919a-4380-ae04-88099114a2d7",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 98.76,
+    "sl": 94.42839285714285,
+    "tp": 107.42321428571431,
+    "stop_distance_pct": 4.385993461783264,
+    "actual_rr": 2.0,
+    "reasons": [
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.7,
+    "position_usd": 34.19977738384789,
+    "risk_usd": 1.4999999999999998,
+    "profit_usd": 2.9999999999999996,
+    "timestamp": "2026-08-25T00:03:24.748179+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "47bdcef5-67fb-45a8-a45d-cd609a7cfdff",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.08999,
+    "sl": 0.09113642857142858,
+    "tp": 0.08769714285714285,
+    "stop_distance_pct": 1.2739510739288542,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.9,
+    "position_usd": 117.74392523364439,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T00:03:27.072698+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "666bd5db-2a00-407c-8fab-f0bb4fa239b4",
+    "symbol": "LINKUSDT",
+    "direction": "SELL",
+    "confidence": 79,
+    "entry": 11.617,
+    "sl": 11.732553571428571,
+    "tp": 11.38589285714286,
+    "stop_distance_pct": 0.9946937370110223,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 7.5,
+    "position_usd": 150.8001854427458,
+    "risk_usd": 1.4999999999999998,
+    "profit_usd": 2.9999999999999996,
+    "timestamp": "2026-08-25T00:03:33.083177+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "086b6622-cf62-4234-8399-3d9f52cc78c4",
+    "symbol": "AVAXUSDT",
+    "direction": "SELL",
+    "confidence": 79,
+    "entry": 7.538,
+    "sl": 7.671464285714285,
+    "tp": 7.27107142857143,
+    "stop_distance_pct": 1.7705530076185347,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.2,
+    "position_usd": 84.71929355097708,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T00:03:35.418596+00:00",
     "status": "pending"
   }
 ]
