@@ -16944,5 +16944,115 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T19:49:35.562075+00:00",
     "status": "pending"
+  },
+  {
+    "id": "8857f4e3-094a-4e4e-b187-22292060346c",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 79,
+    "entry": 78675.81,
+    "sl": 77956.46964285715,
+    "tp": 80114.4907142857,
+    "stop_distance_pct": 0.9143094391311,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 8.2,
+    "position_usd": 164.05824284451248,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T20:39:21.014382+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "5adaedd1-afba-4d16-a31a-09234c80af90",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 79,
+    "entry": 695.66,
+    "sl": 689.2166071428571,
+    "tp": 708.5467857142856,
+    "stop_distance_pct": 0.9262273031571228,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 8.1,
+    "position_usd": 161.94728819665812,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T20:39:25.716910+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "a3b60c73-f328-440b-8309-8812ea4e14c1",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 79,
+    "entry": 97.27,
+    "sl": 95.88571428571429,
+    "tp": 100.03857142857142,
+    "stop_distance_pct": 1.4231373643319727,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.3,
+    "position_usd": 105.40092879257,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T20:39:30.343310+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "1df2d559-9555-4554-838e-5a46c132aad1",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.08718,
+    "sl": 0.09338875,
+    "tp": 0.07476249999999997,
+    "stop_distance_pct": 7.121759577884851,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.1,
+    "position_usd": 21.06221058989325,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T20:39:32.846805+00:00",
+    "status": "pending"
   }
 ]
