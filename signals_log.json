@@ -17205,5 +17205,65 @@
     "profit_usd": 3.6434412550066835,
     "timestamp": "2026-08-25T21:11:25.842621+00:00",
     "status": "pending"
+  },
+  {
+    "id": "f750cb89-6de8-4a0c-b6f8-03393b11df4d",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 67,
+    "entry": 97.06,
+    "sl": 95.88660714285713,
+    "tp": 99.40678571428575,
+    "stop_distance_pct": 1.2089355626858356,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)",
+      "⚠️ برخی سیگنال‌ها در تناقض بودند؛ امتیاز اطمینان کاهش یافت"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "order_block",
+      "liquidity_grab"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 6.2,
+    "position_usd": 124.07609191903664,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T21:47:12.328262+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "544aaf9b-3e87-4d3e-ab0a-0bda5153191d",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 100,
+    "entry": 0.08643,
+    "sl": 0.09340464285714287,
+    "tp": 0.07248071428571429,
+    "stop_distance_pct": 8.069701327250792,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 1.6139402654501582,
+    "profit_usd": 3.2278805309003165,
+    "timestamp": "2026-08-25T21:47:14.720209+00:00",
+    "status": "pending"
   }
 ]
