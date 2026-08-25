@@ -17377,5 +17377,113 @@
     "profit_usd": 2.9999999999999996,
     "timestamp": "2026-08-25T23:05:53.397254+00:00",
     "status": "pending"
+  },
+  {
+    "id": "df23fc75-55a7-4973-b658-de08f715a5f5",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 76,
+    "entry": 694.63,
+    "sl": 689.3903571428572,
+    "tp": 705.1092857142856,
+    "stop_distance_pct": 0.7543070205926646,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 9.9,
+    "position_usd": 198.8580192215948,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T23:41:47.661473+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "e68859af-a2fc-47c2-b1f0-e0cf01d53555",
+    "symbol": "XRPUSDT",
+    "direction": "SELL",
+    "confidence": 72,
+    "entry": 1.436,
+    "sl": 1.4886035714285715,
+    "tp": 1.3307928571428569,
+    "stop_distance_pct": 3.663201352964591,
+    "actual_rr": 2.0,
+    "reasons": [
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)"
+    ],
+    "factors": [
+      "bos_1h",
+      "candle_pattern"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.0,
+    "position_usd": 40.94779007400359,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T23:41:49.660092+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "92b45601-c986-4de7-878b-d867e36aa235",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 100,
+    "entry": 0.08613,
+    "sl": 0.09338553571428572,
+    "tp": 0.07161892857142856,
+    "stop_distance_pct": 8.423935579108,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 1.6847871158216001,
+    "profit_usd": 3.3695742316432002,
+    "timestamp": "2026-08-25T23:41:53.187657+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "7edc9b62-d05f-4097-81fc-ad7212f3d241",
+    "symbol": "LINKUSDT",
+    "direction": "SELL",
+    "confidence": 72,
+    "entry": 11.323,
+    "sl": 11.684625,
+    "tp": 10.59975,
+    "stop_distance_pct": 3.193720745385499,
+    "actual_rr": 2.0,
+    "reasons": [
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.3,
+    "position_usd": 46.96716211545108,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T23:41:58.111514+00:00",
+    "status": "pending"
   }
 ]
