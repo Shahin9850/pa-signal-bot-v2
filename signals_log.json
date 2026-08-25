@@ -9942,7 +9942,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T21:04:34.141310+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "73ca57cf-2a79-4ce8-8f4c-bfff6acdab2f",
@@ -10979,7 +10980,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T08:41:06.586397+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "9f26ce51-7c6f-4467-81fd-728cb9327885",
@@ -11088,7 +11090,8 @@
     "risk_usd": 1.5000000000000002,
     "profit_usd": 3.0000000000000004,
     "timestamp": "2026-08-23T09:12:29.507950+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "d1b6cd3c-7a1c-46d9-9cf1-fb21cc0f27ce",
@@ -11140,7 +11143,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T09:47:59.423619+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "eca769d4-28b8-47b4-8a06-79a0cf88d084",
@@ -11250,7 +11254,8 @@
     "risk_usd": 1.5000000000000002,
     "profit_usd": 3.0000000000000004,
     "timestamp": "2026-08-23T10:33:28.240592+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "a82d79f2-a001-4996-b141-b8ff420cf6d2",
@@ -11278,7 +11283,8 @@
     "risk_usd": 1.5000000000000002,
     "profit_usd": 3.0000000000000004,
     "timestamp": "2026-08-23T11:03:46.350645+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "8e9245e2-23f6-4954-88fc-cc4adeb3c1ab",
@@ -11335,7 +11341,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T11:40:06.919161+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "8df6a447-6f55-42f4-b4ad-b4b2e9f8de0c",
@@ -11387,7 +11394,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T12:02:25.856523+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "e89a2a6c-3f93-487f-9a0b-1b8cf0611156",
@@ -11443,7 +11451,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T13:06:21.155344+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "e377cd25-a05a-4262-8364-3382bca1f419",
@@ -11501,7 +11510,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T13:49:01.817929+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "c2a7b9dd-339c-4cb1-880d-81a297821e84",
@@ -11608,7 +11618,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T14:33:00.971166+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "640646b4-7659-4504-aed4-6b842fdf01ac",
@@ -11667,7 +11678,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T15:03:18.745991+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "58f98ada-0563-48e1-ae45-0d51814f4199",
@@ -11693,7 +11705,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T15:03:26.905428+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "30f00433-0daa-4337-9d49-2e0149da9ec2",
@@ -11779,7 +11792,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T15:42:08.239882+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "44a033c2-557d-4ad1-8a2d-74de93938687",
@@ -11807,7 +11821,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T15:42:18.193951+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "4e66ca52-8c3a-40b4-a6b2-7c1d472645ae",
@@ -11833,7 +11848,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T16:02:27.123813+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "ea8ab09a-53f8-48ac-ac5b-9ab6207ffa5b",
@@ -11859,7 +11875,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T16:02:36.615957+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "96fcf01d-b3f6-4e15-95e9-c9c7cb91b1ca",
@@ -11885,7 +11902,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T16:46:41.545286+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "68208e98-9663-4b2c-bfed-c19357408bc3",
@@ -11911,7 +11929,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T16:46:49.536864+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "f2797b46-0975-4703-b4dc-9083f97c9688",
@@ -11964,7 +11983,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T17:11:51.166618+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "72eee53e-0067-4253-9ddd-244e491be8b1",
@@ -12017,7 +12037,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T17:40:00.561995+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "b79338ca-7c44-4f61-ac2c-f2d18bd7ac30",
@@ -12097,7 +12118,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T18:00:50.370462+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "30776513-db13-48ce-92fe-6fd67fecfcfc",
@@ -12124,7 +12146,8 @@
     "risk_usd": 1.4999999999999998,
     "profit_usd": 3.0000000000000044,
     "timestamp": "2026-08-23T18:00:52.369998+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "f5b03335-03cd-46d7-baa9-545109d11d12",
@@ -12210,7 +12233,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T18:46:05.938652+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "03b4c1a7-daf5-4422-8324-f4858e8cfc5f",
@@ -12237,7 +12261,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.000000000000004,
     "timestamp": "2026-08-23T18:46:08.381989+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "e286621d-1d02-40e3-9612-f12234df581f",
@@ -12327,7 +12352,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T19:40:28.359892+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "d7eabdc1-4652-4842-8277-eef0cbd35e4e",
@@ -12354,7 +12380,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0000000000000044,
     "timestamp": "2026-08-23T19:40:30.311168+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "64b4cdd5-1aa2-48b0-afaf-e3301c21cc48",
@@ -12407,7 +12434,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T20:01:19.025144+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "a6f70785-f6b1-4603-a0bb-88ea59baae48",
@@ -12433,7 +12461,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T20:01:21.207657+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "9ab5caba-2b3d-4200-b35d-c2abb4691cb1",
@@ -12461,7 +12490,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T20:37:29.697073+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "4a298a1b-460c-4b91-a2e7-6cee523143c6",
@@ -12545,7 +12575,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T21:03:02.269191+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "be47c6c7-6ee2-4f1e-bb6d-eec854258410",
@@ -12572,7 +12603,8 @@
     "risk_usd": 1.4999999999999998,
     "profit_usd": 2.9999999999999996,
     "timestamp": "2026-08-23T21:03:04.263047+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "f4ad4b52-1ccd-44b2-902c-d234d6b5e47b",
@@ -12656,7 +12688,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T21:40:53.072527+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "f6ef02fc-2de3-428d-a9d3-c58205607dea",
@@ -12824,7 +12857,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T22:36:54.463992+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "ae4fb7b0-8787-4e9d-89a7-26c0a7e6a28b",
@@ -12906,7 +12940,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T23:03:44.863435+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "de5ccd84-d70c-43e3-b852-2a958115eb93",
@@ -12987,7 +13022,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T23:40:49.513715+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "73e58ac3-e100-498c-aa7c-1b4512b64004",
@@ -13096,7 +13132,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T00:02:06.323991+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "08125bde-861c-4686-8abc-2fe4fc68e061",
@@ -13507,7 +13544,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T05:58:26.487555+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "874fd97d-4c96-421b-a3f4-e217407dd32f",
@@ -13651,7 +13689,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T08:10:20.395042+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "8b2ced1f-0a94-4e33-aee4-f374bb7bde52",
@@ -13824,7 +13863,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T11:39:26.240538+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "175c6003-6ad2-4a82-8950-3f78b9b36fd8",
@@ -13963,7 +14003,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T12:06:15.188227+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "4474de35-bcdc-419f-9f59-c0418b6e8a74",
@@ -14019,7 +14060,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T12:06:26.545897+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "d73c98a3-7f54-4eb0-a8ff-df46290bd412",
@@ -14049,7 +14091,8 @@
     "risk_usd": 1.4999999999999998,
     "profit_usd": 2.9999999999999996,
     "timestamp": "2026-08-24T13:18:29.069580+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "0108195a-b493-4146-afc1-e6a82e3155f7",
@@ -14107,7 +14150,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T13:18:44.571059+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "a6bd2363-bfd3-41e6-9327-36a7832e251f",
@@ -14170,7 +14214,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T14:22:21.234559+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "2cab101d-85d8-418d-b092-bcb535cf7169",
@@ -14232,7 +14277,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T15:14:20.394619+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "ed4ae243-8fce-45a4-ae21-3ce5ca80039b",
@@ -14319,7 +14365,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T15:14:35.909126+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "9ebc34bb-0968-4923-bfae-fea3a044210b",
@@ -15464,7 +15511,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T04:04:12.906275+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "160106ab-9ceb-4d1b-87d9-a41fdb607b28",
@@ -15664,7 +15712,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T07:28:19.476259+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "0a639713-993c-4ca1-b161-f86cbb9b9475",
@@ -15719,7 +15768,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T09:04:51.677702+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "5cbb9967-fd99-4e80-a6ca-f0056c476914",
@@ -16030,7 +16080,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T11:12:51.768578+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "4e92cf65-bcb9-4de2-92d9-d790b55798a6",
@@ -16221,7 +16272,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T15:09:05.273148+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "2fafd8c3-ae0f-4579-805c-c9a9ea981ff6",
@@ -16332,7 +16384,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T16:04:16.841851+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "e18e9625-a26a-4f8e-8e9a-973d9236260a",
@@ -16414,7 +16467,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T16:59:27.527763+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "b55d786f-63bc-42bc-9b74-958686385f47",
@@ -16446,7 +16500,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T17:41:03.777965+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "7cb4647b-d863-4cc2-a585-9ef6bc9a855c",
@@ -16476,7 +16531,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T17:41:05.982263+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "c6ce0186-9bb6-4962-aa04-b8fb70fb6430",
@@ -16504,7 +16560,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T17:41:08.161345+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "900cf03e-2ce6-4b7e-82d3-bd1b0c7da5f5",
@@ -16534,7 +16591,8 @@
     "risk_usd": 1.5000000000000002,
     "profit_usd": 3.0000000000000004,
     "timestamp": "2026-08-25T17:41:12.072494+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "45699275-75d7-4f9c-8570-688a466f94b5",
@@ -16615,7 +16673,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T17:41:20.292711+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "2583ffd6-768f-44b2-971d-2df92619023e",
@@ -16647,7 +16706,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T17:41:22.682838+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "957a9560-48a9-4dbf-ac40-951c47b02851",
@@ -16673,7 +16733,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T18:16:42.858199+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "114d1354-f808-4efe-bdfa-adae8bbc1084",
@@ -16727,7 +16788,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T19:05:50.240054+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "6fddcd73-3a91-4bba-a097-f72860245d89",
@@ -16753,7 +16815,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T19:05:53.722956+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "14f30202-6a50-48a3-a609-c6cc6e011622",
@@ -16835,7 +16898,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T19:49:18.739049+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "1a77a36c-69b9-4dd4-a105-76c8357b8ab8",
@@ -16863,7 +16927,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T19:49:22.985399+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "039662e9-1d22-47e2-a99f-6290f0708fba",
@@ -16891,7 +16956,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T19:49:27.172670+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "bd764ce0-a621-4a52-b2c7-acc7771ee1c5",
@@ -16971,7 +17037,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T20:39:21.014382+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "5adaedd1-afba-4d16-a31a-09234c80af90",
@@ -16999,7 +17066,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T20:39:25.716910+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "a3b60c73-f328-440b-8309-8812ea4e14c1",
@@ -17027,7 +17095,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T20:39:30.343310+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-25T21:09:46.471265+00:00"
   },
   {
     "id": "1df2d559-9555-4554-838e-5a46c132aad1",
@@ -17053,6 +17122,88 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T20:39:32.846805+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "d880d031-c6f3-4c4d-b70f-99de54537d79",
+    "symbol": "XRPUSDT",
+    "direction": "SELL",
+    "confidence": 73,
+    "entry": 1.4286,
+    "sl": 1.4887714285714286,
+    "tp": 1.308257142857143,
+    "stop_distance_pct": 4.211915761684764,
+    "actual_rr": 2.0,
+    "reasons": [
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.8,
+    "position_usd": 35.613247863247885,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T21:11:21.445458+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "2c072ec5-937a-427d-a83f-38a64857ffbc",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 84,
+    "entry": 96.37,
+    "sl": 95.41535714285715,
+    "tp": 98.27928571428572,
+    "stop_distance_pct": 0.990601698809648,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "order_block",
+      "liquidity_grab"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 7.6,
+    "position_usd": 151.42312008978666,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T21:11:23.651947+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "0a11d34e-3cd0-4dcd-ba05-5999e3994d47",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 73,
+    "entry": 0.0856,
+    "sl": 0.0933969642857143,
+    "tp": 0.07000607142857139,
+    "stop_distance_pct": 9.10860313751671,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 1.8217206275033417,
+    "profit_usd": 3.6434412550066835,
+    "timestamp": "2026-08-25T21:11:25.842621+00:00",
     "status": "pending"
   }
 ]
