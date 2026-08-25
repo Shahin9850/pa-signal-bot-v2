@@ -7858,7 +7858,8 @@
     "risk_usd": 1.9741930543324246,
     "profit_usd": 3.9483861086648493,
     "timestamp": "2026-08-22T05:14:05.721024+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T05:39:01.821968+00:00"
   },
   {
     "id": "59785b47-9e1c-4d39-994c-919a99c4e0af",
@@ -7920,7 +7921,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-22T05:14:11.220405+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-25T05:39:01.821968+00:00"
   },
   {
     "id": "f2868444-7ae6-41fa-afe9-65a2eb2ceac8",
@@ -15476,6 +15478,61 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T04:58:02.247914+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "9590db0e-da96-4c7a-9c12-b169ea192c85",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 2511.12,
+    "sl": 2449.5073214285712,
+    "tp": 2634.345357142857,
+    "stop_distance_pct": 2.4535935587080133,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.1,
+    "position_usd": 61.134819769817696,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T05:41:10.255380+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "76100421-bc4e-427b-9d0b-e4b5ab947e12",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 105,
+    "entry": 717.25,
+    "sl": 698.79875,
+    "tp": 754.1524999999999,
+    "stop_distance_pct": 2.572499128616237,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "جمع‌آوری نقدینگی بالای سقف قبلی و بازگشت (Liquidity Grab نزولی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.9,
+    "position_usd": 58.30905765192073,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T05:41:12.804089+00:00",
     "status": "pending"
   }
 ]
