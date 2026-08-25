@@ -17265,5 +17265,61 @@
     "profit_usd": 3.2278805309003165,
     "timestamp": "2026-08-25T21:47:14.720209+00:00",
     "status": "pending"
+  },
+  {
+    "id": "d4ac4953-90d3-45f8-ae49-b87e94f270ec",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 77,
+    "entry": 696.59,
+    "sl": 689.3239285714286,
+    "tp": 711.1221428571429,
+    "stop_distance_pct": 1.0430915500612157,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 7.2,
+    "position_usd": 143.8032931924307,
+    "risk_usd": 1.4999999999999998,
+    "profit_usd": 2.9999999999999996,
+    "timestamp": "2026-08-25T22:36:09.394172+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "bdd49535-9c1b-4307-9fae-cf2bda03d9b9",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 100,
+    "entry": 0.0868,
+    "sl": 0.09339785714285714,
+    "tp": 0.07360428571428572,
+    "stop_distance_pct": 7.6012179065174434,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 1.5202435813034887,
+    "profit_usd": 3.0404871626069774,
+    "timestamp": "2026-08-25T22:36:14.325514+00:00",
+    "status": "pending"
   }
 ]
