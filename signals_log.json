@@ -15560,5 +15560,60 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T06:18:48.263214+00:00",
     "status": "pending"
+  },
+  {
+    "id": "c2bd9785-589b-4f5e-a1c5-79fe00fa6762",
+    "symbol": "ETHUSDT",
+    "direction": "SELL",
+    "confidence": 79,
+    "entry": 2504.9,
+    "sl": 2537.384642857143,
+    "tp": 2439.9307142857147,
+    "stop_distance_pct": 1.2968439002412357,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_pin)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.8,
+    "position_usd": 115.66542432138313,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T07:28:19.476259+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "0a639713-993c-4ca1-b161-f86cbb9b9475",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 70,
+    "entry": 11.755,
+    "sl": 11.642375,
+    "tp": 11.980250000000003,
+    "stop_distance_pct": 0.9581029349213211,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 7.8,
+    "position_usd": 156.55937846836667,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-25T07:28:30.455388+00:00",
+    "status": "pending"
   }
 ]
