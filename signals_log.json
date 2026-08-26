@@ -17511,5 +17511,33 @@
     "profit_usd": 3.6448683925024685,
     "timestamp": "2026-08-26T00:02:39.252947+00:00",
     "status": "pending"
+  },
+  {
+    "id": "ea980ee7-7467-411d-93b7-f15d03c387e0",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 75,
+    "entry": 695.08,
+    "sl": 686.9428571428572,
+    "tp": 711.3542857142858,
+    "stop_distance_pct": 1.1706771676847072,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 6.4,
+    "position_usd": 128.13096910112353,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-26T02:02:04.409878+00:00",
+    "status": "pending"
   }
 ]
