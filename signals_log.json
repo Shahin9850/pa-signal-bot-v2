@@ -17485,5 +17485,31 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T23:41:58.111514+00:00",
     "status": "pending"
+  },
+  {
+    "id": "7d09e88d-3483-458e-9170-85e385d83d3b",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 70,
+    "entry": 0.08559,
+    "sl": 0.09338910714285716,
+    "tp": 0.06999178571428569,
+    "stop_distance_pct": 9.11217098125617,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.0,
+    "position_usd": 20.0,
+    "risk_usd": 1.8224341962512343,
+    "profit_usd": 3.6448683925024685,
+    "timestamp": "2026-08-26T00:02:39.252947+00:00",
+    "status": "pending"
   }
 ]
