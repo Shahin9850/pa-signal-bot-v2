@@ -10924,7 +10924,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T08:41:02.402764+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-26T09:04:47.413436+00:00"
   },
   {
     "id": "d233cf94-f7e4-4180-88d6-e644e0d857bc",
@@ -17900,6 +17901,88 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T08:03:35.079781+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "450f5008-2f7f-445e-bbef-12e225a0ca76",
+    "symbol": "XRPUSDT",
+    "direction": "SELL",
+    "confidence": 66,
+    "entry": 1.4311,
+    "sl": 1.4558607142857143,
+    "tp": 1.3815785714285715,
+    "stop_distance_pct": 1.730187568004629,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.3,
+    "position_usd": 86.69580268282142,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-26T09:06:01.054892+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "b049e986-5cb4-4fa7-bde7-e572ed667416",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 71,
+    "entry": 0.0865,
+    "sl": 0.08730267857142857,
+    "tp": 0.08489464285714285,
+    "stop_distance_pct": 0.9279521056977715,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 8.1,
+    "position_usd": 161.6462736373747,
+    "risk_usd": 1.5000000000000002,
+    "profit_usd": 3.0000000000000004,
+    "timestamp": "2026-08-26T09:06:05.425473+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "a88a2db9-b4af-4992-acaf-517765d56db9",
+    "symbol": "ADAUSDT",
+    "direction": "SELL",
+    "confidence": 71,
+    "entry": 0.2106,
+    "sl": 0.2137464285714286,
+    "tp": 0.20430714285714285,
+    "stop_distance_pct": 1.4940306606973304,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.0,
+    "position_usd": 100.39954597048788,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-26T09:06:09.966293+00:00",
     "status": "pending"
   }
 ]
