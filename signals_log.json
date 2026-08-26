@@ -12728,7 +12728,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T22:01:17.809019+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-26T22:26:11.869883+00:00"
   },
   {
     "id": "625084e8-d519-4da4-8f41-6839c73a2938",
@@ -18498,7 +18499,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T16:04:41.500686+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-26T22:26:11.869883+00:00"
   },
   {
     "id": "b2069819-d8d7-4fc6-a3a2-b9066a42b14d",
@@ -18722,6 +18724,35 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T19:22:55.867147+00:00",
+    "status": "win",
+    "closed_at": "2026-08-26T22:26:11.869883+00:00"
+  },
+  {
+    "id": "f53d927a-12f5-47cc-b431-c627c13ef6d2",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 100.54,
+    "sl": 94.62357142857144,
+    "tp": 112.37285714285714,
+    "stop_distance_pct": 5.88465145357924,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "نشانه تغییر روند به صعودی (CHoCH) در ۱ساعته",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "choch_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.3,
+    "position_usd": 25.490039840637465,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-26T22:26:58.234223+00:00",
     "status": "pending"
   }
 ]
