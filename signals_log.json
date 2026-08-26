@@ -11316,7 +11316,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T11:40:03.349921+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-26T12:17:07.398833+00:00"
   },
   {
     "id": "b5c94908-1779-457b-b5d4-59a0dc5f3ed6",
@@ -11372,7 +11373,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T12:02:21.906994+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-26T12:17:07.398833+00:00"
   },
   {
     "id": "72d3dc50-9064-40d0-a094-7d10be4d79db",
@@ -18324,6 +18326,34 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T11:38:36.060243+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "c4044913-9530-45fd-b087-9ae411e02164",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 69,
+    "entry": 96.9,
+    "sl": 95.56410714285714,
+    "tp": 99.57178571428574,
+    "stop_distance_pct": 1.3786303995282416,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.4,
+    "position_usd": 108.80363587755573,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-26T12:18:24.109703+00:00",
     "status": "pending"
   }
 ]
