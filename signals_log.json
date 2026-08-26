@@ -17409,7 +17409,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T23:41:47.661473+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-26T11:37:05.587766+00:00"
   },
   {
     "id": "e68859af-a2fc-47c2-b1f0-e0cf01d53555",
@@ -17713,7 +17714,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T05:08:48.598530+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-26T11:37:05.587766+00:00"
   },
   {
     "id": "ec34f69d-b252-4e20-8efc-0a7ca47a7f46",
@@ -18237,6 +18239,91 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T10:48:34.596953+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "45fc2cee-eeeb-4d96-8a5a-28cb3e62007e",
+    "symbol": "XRPUSDT",
+    "direction": "SELL",
+    "confidence": 70,
+    "entry": 1.4091,
+    "sl": 1.4558285714285715,
+    "tp": 1.3156428571428571,
+    "stop_distance_pct": 3.316199803319243,
+    "actual_rr": 2.0,
+    "reasons": [
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.3,
+    "position_usd": 45.23249770712319,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-26T11:38:27.165991+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "1cf560b8-60c7-44ac-9ed1-60bc4d14bcd9",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 66,
+    "entry": 96.76,
+    "sl": 96.03160714285714,
+    "tp": 98.21678571428573,
+    "stop_distance_pct": 0.752783027224953,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)",
+      "جمع‌آوری نقدینگی بالای سقف قبلی و بازگشت (Liquidity Grab نزولی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 10.0,
+    "position_usd": 199.26060308899036,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-26T11:38:29.677344+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "e9ee0174-a3f8-42d2-8474-7df3a2c7b8fb",
+    "symbol": "ADAUSDT",
+    "direction": "SELL",
+    "confidence": 70,
+    "entry": 0.2097,
+    "sl": 0.21374285714285715,
+    "tp": 0.2016142857142857,
+    "stop_distance_pct": 1.9279242455208172,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.9,
+    "position_usd": 77.80388692579484,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-26T11:38:36.060243+00:00",
     "status": "pending"
   }
 ]
