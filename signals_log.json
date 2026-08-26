@@ -17623,5 +17623,63 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T03:28:07.536422+00:00",
     "status": "pending"
+  },
+  {
+    "id": "72b964e9-09fe-49b6-afa7-01b67537d221",
+    "symbol": "BTCUSDT",
+    "direction": "BUY",
+    "confidence": 75,
+    "entry": 79133.6,
+    "sl": 77730.31303571428,
+    "tp": 81940.17392857146,
+    "stop_distance_pct": 1.7733136926485409,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.2,
+    "position_usd": 84.58740301946622,
+    "risk_usd": 1.4999999999999998,
+    "profit_usd": 2.9999999999999996,
+    "timestamp": "2026-08-26T04:20:10.537011+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "0d4dfa03-e79e-4f1f-a68a-f231255474fe",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 100,
+    "entry": 696.79,
+    "sl": 687.0339285714285,
+    "tp": 716.3021428571428,
+    "stop_distance_pct": 1.4001451554372812,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)",
+      "قیمت داخل Order Block صعودی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.4,
+    "position_usd": 107.13174946004317,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-26T04:20:15.101928+00:00",
+    "status": "pending"
   }
 ]
