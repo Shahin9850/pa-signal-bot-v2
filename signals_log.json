@@ -12787,7 +12787,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-23T22:36:38.349950+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-27T03:31:10.152097+00:00"
   },
   {
     "id": "6f886cee-90bf-4335-8fdb-a99a8734b574",
@@ -13090,7 +13091,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T00:01:53.207175+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-27T03:31:10.152097+00:00"
   },
   {
     "id": "e2b7396a-f954-417d-94dc-d59101e0242e",
@@ -17755,7 +17757,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T05:08:54.253313+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-27T03:31:10.152097+00:00"
   },
   {
     "id": "ab89dc37-c7a5-4b87-81c7-111d93210977",
@@ -18066,7 +18069,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T10:01:11.469073+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-27T03:31:10.152097+00:00"
   },
   {
     "id": "d9b4e879-acb0-427a-8fe7-5c2557a87a35",
@@ -18528,7 +18532,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T16:04:44.017495+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-27T03:31:10.152097+00:00"
   },
   {
     "id": "f9093325-8b94-4728-8faf-1aad77b1973c",
@@ -18639,7 +18644,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T17:52:22.815495+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-27T03:31:10.152097+00:00"
   },
   {
     "id": "bee8da06-9afd-4264-8fc7-337eb62bd03d",
@@ -18696,7 +18702,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T17:52:30.812532+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-27T03:31:10.152097+00:00"
   },
   {
     "id": "fd6b6153-57f2-472b-8970-25aedd8cf116",
@@ -18753,6 +18760,92 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T22:26:58.234223+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "1debc135-910d-4a84-b4ca-10b55e82caa8",
+    "symbol": "XRPUSDT",
+    "direction": "SELL",
+    "confidence": 67,
+    "entry": 1.4085,
+    "sl": 1.4320035714285715,
+    "tp": 1.3614928571428573,
+    "stop_distance_pct": 1.668695167097721,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.5,
+    "position_usd": 89.8905941346301,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-27T03:32:07.714426+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "2ca60fa5-0b8e-475d-bca4-4369303b0703",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 67,
+    "entry": 0.08691,
+    "sl": 0.08808446428571429,
+    "tp": 0.08456107142857143,
+    "stop_distance_pct": 1.3513569045153442,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.5,
+    "position_usd": 110.99954386498405,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-27T03:32:11.848334+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "5a62d134-c397-4016-9621-6eabce1aef90",
+    "symbol": "LINKUSDT",
+    "direction": "SELL",
+    "confidence": 98,
+    "entry": 11.532,
+    "sl": 11.664321428571428,
+    "tp": 11.267357142857144,
+    "stop_distance_pct": 1.1474282741192183,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "قیمت داخل Order Block نزولی (ورود احتمالی پول هوشمند)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone",
+      "order_block"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 6.5,
+    "position_usd": 130.72712550607318,
+    "risk_usd": 1.4999999999999998,
+    "profit_usd": 2.9999999999999996,
+    "timestamp": "2026-08-27T03:32:17.687425+00:00",
     "status": "pending"
   }
 ]
