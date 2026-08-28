@@ -14410,7 +14410,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T16:00:13.948259+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-28T00:21:13.556529+00:00"
   },
   {
     "id": "ee253422-d8e6-42e7-810a-971f49bd16a9",
@@ -14500,7 +14501,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T16:52:16.951001+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-28T00:21:13.556529+00:00"
   },
   {
     "id": "d174c126-3b9d-4bd3-a721-7cebe20c86c2",
@@ -14618,7 +14620,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T17:39:32.382080+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-28T00:21:13.556529+00:00"
   },
   {
     "id": "c853133b-c721-47d1-90d5-08d4719fe056",
@@ -14760,7 +14763,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-24T19:08:14.403475+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-28T00:21:13.556529+00:00"
   },
   {
     "id": "1c83c1f0-e9b3-47bb-b79e-723c325b7ae9",
@@ -18904,7 +18908,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-27T14:49:05.354637+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-28T00:21:13.556529+00:00"
   },
   {
     "id": "5538a22f-1054-4052-be3c-0fbcadf24e37",
@@ -18930,6 +18935,34 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-27T14:49:07.902290+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "f74b37d8-f281-4642-af18-267c40cc9da2",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 91,
+    "entry": 2512.26,
+    "sl": 2484.409107142857,
+    "tp": 2567.9617857142866,
+    "stop_distance_pct": 1.1085991440831444,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 6.8,
+    "position_usd": 135.3058955534879,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-28T00:21:47.883586+00:00",
     "status": "pending"
   }
 ]
