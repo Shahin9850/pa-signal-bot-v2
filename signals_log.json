@@ -15851,7 +15851,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T09:55:09.644187+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-28T12:04:56.896831+00:00"
   },
   {
     "id": "548abee9-8157-4959-8e86-ee818ba7cd74",
@@ -15880,7 +15881,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T09:55:14.694217+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-28T12:04:56.896831+00:00"
   },
   {
     "id": "e4248388-7d6e-442b-b2d2-9a16ea06b190",
@@ -15908,7 +15910,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T09:55:16.715474+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-28T12:04:56.896831+00:00"
   },
   {
     "id": "50a5072e-902f-4837-9a2c-dd4e5273bb5d",
@@ -16022,7 +16025,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T11:12:42.575139+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-28T12:04:56.896831+00:00"
   },
   {
     "id": "27fffe4d-14f1-463c-8b58-175980ded798",
@@ -16080,7 +16084,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T11:12:46.774498+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-28T12:04:56.896831+00:00"
   },
   {
     "id": "8a9a1ea9-58a4-419e-9b3f-c7fb951596b9",
@@ -16134,7 +16139,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T11:12:55.304026+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-28T12:04:56.896831+00:00"
   },
   {
     "id": "f5e5e390-ec1c-4aad-be6d-13594ec87bb3",
@@ -16160,7 +16166,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T11:48:53.166147+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-28T12:04:56.896831+00:00"
   },
   {
     "id": "cd7eb8f7-ae4f-4fdb-a82e-fb7af237fd9e",
@@ -16191,7 +16198,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-25T11:48:57.686488+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-08-28T12:04:56.896831+00:00"
   },
   {
     "id": "0d5a4611-07bc-4d80-a880-4a984e60066b",
@@ -17721,7 +17729,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-26T04:20:15.101928+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-28T12:04:56.896831+00:00"
   },
   {
     "id": "f40f8b9c-2875-42b5-bfea-075ae453c7f9",
@@ -18935,7 +18944,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-27T14:49:07.902290+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-08-28T12:04:56.896831+00:00"
   },
   {
     "id": "f74b37d8-f281-4642-af18-267c40cc9da2",
@@ -18963,6 +18973,35 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-28T00:21:47.883586+00:00",
+    "status": "loss",
+    "closed_at": "2026-08-28T12:04:56.896831+00:00"
+  },
+  {
+    "id": "a6adf673-4218-41be-a6e1-f78371d674aa",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 71,
+    "entry": 2505.82,
+    "sl": 2473.83625,
+    "tp": 2569.787500000001,
+    "stop_distance_pct": 1.2763785906410008,
+    "actual_rr": 2.0,
+    "reasons": [
+      "نشانه تغییر روند به صعودی (CHoCH) در ۱ساعته",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "choch_1h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.9,
+    "position_usd": 117.51999062023565,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-28T12:05:37.015495+00:00",
     "status": "pending"
   }
 ]
