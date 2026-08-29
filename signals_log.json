@@ -19056,5 +19056,33 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-29T10:59:13.345811+00:00",
     "status": "pending"
+  },
+  {
+    "id": "9a2bb726-4bd0-4104-a66b-24a8bfb1de5e",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 95,
+    "entry": 104.99,
+    "sl": 102.87410714285714,
+    "tp": 109.2217857142857,
+    "stop_distance_pct": 2.0153279904208525,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.7,
+    "position_usd": 74.42957211579049,
+    "risk_usd": 1.4999999999999998,
+    "profit_usd": 2.9999999999999996,
+    "timestamp": "2026-08-29T15:35:28.615843+00:00",
+    "status": "pending"
   }
 ]
