@@ -19056,7 +19056,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-29T10:59:13.345811+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-08-30T13:20:00.673791+00:00"
   },
   {
     "id": "9a2bb726-4bd0-4104-a66b-24a8bfb1de5e",
@@ -19114,6 +19115,35 @@
     "risk_usd": 1.5000000000000002,
     "profit_usd": 3.0000000000000004,
     "timestamp": "2026-08-29T18:54:44.535782+00:00",
+    "status": "loss",
+    "closed_at": "2026-08-30T13:20:00.673791+00:00"
+  },
+  {
+    "id": "5e1ca67c-db12-463f-b7f6-b4acf81a46ec",
+    "symbol": "BNBUSDT",
+    "direction": "BUY",
+    "confidence": 89,
+    "entry": 696.15,
+    "sl": 690.8682142857142,
+    "tp": 706.7135714285715,
+    "stop_distance_pct": 0.7587137419070279,
+    "actual_rr": 2.0,
+    "reasons": [
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "bos_1h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 9.9,
+    "position_usd": 197.70302251673314,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-08-30T13:20:10.770887+00:00",
     "status": "pending"
   }
 ]
