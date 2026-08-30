@@ -1,9 +1,9 @@
 {
-  "structure_4h": 29.2,
+  "structure_4h": 29.1,
   "bos_1h": 35.0,
   "choch_1h": 12.0,
-  "candle_pattern": 25.5,
-  "supply_demand_zone": 23.3,
+  "candle_pattern": 25.2,
+  "supply_demand_zone": 23.0,
   "order_block": 5.0,
   "liquidity_grab": 5.0
 }
