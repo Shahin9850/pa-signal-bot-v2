@@ -19738,5 +19738,31 @@
     "profit_usd": 3.0,
     "timestamp": "2026-09-01T21:25:03.263223+00:00",
     "status": "pending"
+  },
+  {
+    "id": "eb8bf869-0e75-4e60-ba39-45bb744acfa9",
+    "symbol": "XRPUSDT",
+    "direction": "SELL",
+    "confidence": 66,
+    "entry": 1.3489,
+    "sl": 1.3912357142857141,
+    "tp": 1.2642285714285717,
+    "stop_distance_pct": 3.1385361617402436,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.4,
+    "position_usd": 47.79298127214458,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-09-01T23:31:43.869118+00:00",
+    "status": "pending"
   }
 ]
