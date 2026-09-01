@@ -19259,7 +19259,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-08-31T21:03:39.267306+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-09-01T15:13:24.625891+00:00"
   },
   {
     "id": "d7418c49-8f0a-4c83-8146-de514094fe36",
@@ -19344,6 +19345,146 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-09-01T10:32:22.969319+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "08cc6707-6665-4918-862b-1849f2eca7e3",
+    "symbol": "ETHUSDT",
+    "direction": "SELL",
+    "confidence": 90,
+    "entry": 2438.39,
+    "sl": 2489.462857142857,
+    "tp": 2336.2442857142855,
+    "stop_distance_pct": 2.0945319306122965,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "candle_pattern"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.6,
+    "position_usd": 71.61504573298645,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-09-01T15:13:33.408052+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "0b388329-f00a-413e-93cf-08a034b09daf",
+    "symbol": "BNBUSDT",
+    "direction": "SELL",
+    "confidence": 66,
+    "entry": 685.47,
+    "sl": 695.5119642857144,
+    "tp": 665.3860714285713,
+    "stop_distance_pct": 1.4649750223517233,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "نشانه تغییر روند به نزولی (CHoCH) در ۱ساعته",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)"
+    ],
+    "factors": [
+      "structure_4h",
+      "choch_1h",
+      "candle_pattern"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.1,
+    "position_usd": 102.39082421979121,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-09-01T15:13:35.774162+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "b86f8390-6318-47d6-997f-1a8b9dcba544",
+    "symbol": "SOLUSDT",
+    "direction": "SELL",
+    "confidence": 84,
+    "entry": 101.39,
+    "sl": 104.5905357142857,
+    "tp": 94.98892857142859,
+    "stop_distance_pct": 3.156658165781346,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.4,
+    "position_usd": 47.51860737599743,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-09-01T15:13:40.188668+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "e0fc38a2-f249-4814-90f5-e81f72d0f6d1",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 72,
+    "entry": 0.08224,
+    "sl": 0.0841307142857143,
+    "tp": 0.07845857142857139,
+    "stop_distance_pct": 2.2990202890494906,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)",
+      "جمع‌آوری نقدینگی زیر کف قبلی و بازگشت (Liquidity Grab صعودی)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.3,
+    "position_usd": 65.24518322629338,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-09-01T15:13:42.526548+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "f8bce2a1-21f5-49d7-8b11-9e5cb7cdb181",
+    "symbol": "TRXUSDT",
+    "direction": "SELL",
+    "confidence": 66,
+    "entry": 0.3252,
+    "sl": 0.3344535714285714,
+    "tp": 0.30669285714285716,
+    "stop_distance_pct": 2.845501669302404,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.6,
+    "position_usd": 52.71478193747595,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-09-01T15:13:44.852069+00:00",
     "status": "pending"
   }
 ]
