@@ -19260,5 +19260,33 @@
     "profit_usd": 3.0,
     "timestamp": "2026-08-31T21:03:39.267306+00:00",
     "status": "pending"
+  },
+  {
+    "id": "d7418c49-8f0a-4c83-8146-de514094fe36",
+    "symbol": "LINKUSDT",
+    "direction": "BUY",
+    "confidence": 84,
+    "entry": 11.507,
+    "sl": 11.216785714285715,
+    "tp": 12.08742857142857,
+    "stop_distance_pct": 2.5220673130640905,
+    "actual_rr": 2.0,
+    "reasons": [
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "bos_1h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.0,
+    "position_usd": 59.47501845926672,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-09-01T05:44:00.244472+00:00",
+    "status": "pending"
   }
 ]
