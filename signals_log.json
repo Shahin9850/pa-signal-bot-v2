@@ -19318,7 +19318,8 @@
     "risk_usd": 1.4999999999999998,
     "profit_usd": 2.9999999999999996,
     "timestamp": "2026-09-01T10:32:18.996590+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-09-01T21:24:35.715062+00:00"
   },
   {
     "id": "dee10931-b67a-492a-8707-6dde667090c6",
@@ -19680,6 +19681,62 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-09-01T18:38:28.258402+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "ccd4b60d-2c63-4b01-90dc-aae5690b2045",
+    "symbol": "SOLUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 99.59,
+    "sl": 104.64571428571428,
+    "tp": 89.47857142857146,
+    "stop_distance_pct": 5.076528050722234,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 1.5,
+    "position_usd": 29.547753602712703,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-09-01T21:24:59.956351+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "cd15b3fd-5b64-463e-a3ab-34456ea60ffd",
+    "symbol": "DOGEUSDT",
+    "direction": "SELL",
+    "confidence": 74,
+    "entry": 0.08154,
+    "sl": 0.08416625000000001,
+    "tp": 0.07628749999999998,
+    "stop_distance_pct": 3.220811871474136,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "الگوی کندلی نزولی شناسایی شد (bearish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "candle_pattern",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.3,
+    "position_usd": 46.57210851975232,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-09-01T21:25:03.263223+00:00",
     "status": "pending"
   }
 ]
