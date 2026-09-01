@@ -19288,5 +19288,62 @@
     "profit_usd": 3.0,
     "timestamp": "2026-09-01T05:44:00.244472+00:00",
     "status": "pending"
+  },
+  {
+    "id": "ea279de4-a412-4ade-bae3-74ee84e43ef2",
+    "symbol": "SOLUSDT",
+    "direction": "SELL",
+    "confidence": 84,
+    "entry": 102.56,
+    "sl": 104.56267857142856,
+    "tp": 98.55464285714288,
+    "stop_distance_pct": 1.952689714731436,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی صعودی شناسایی شد (bullish_engulfing)",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.8,
+    "position_usd": 76.81711992866737,
+    "risk_usd": 1.4999999999999998,
+    "profit_usd": 2.9999999999999996,
+    "timestamp": "2026-09-01T10:32:18.996590+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "dee10931-b67a-492a-8707-6dde667090c6",
+    "symbol": "TRXUSDT",
+    "direction": "SELL",
+    "confidence": 89,
+    "entry": 0.3285,
+    "sl": 0.33437321428571426,
+    "tp": 0.3167535714285715,
+    "stop_distance_pct": 1.787888671450303,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های پایین‌تر (روند نزولی)",
+      "شکست ساختار نزولی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه عرضه (Supply Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 4.2,
+    "position_usd": 83.89784128914621,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-09-01T10:32:22.969319+00:00",
+    "status": "pending"
   }
 ]
