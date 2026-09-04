@@ -19349,7 +19349,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-09-01T10:32:22.969319+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-09-04T11:41:47.720951+00:00"
   },
   {
     "id": "08cc6707-6665-4918-862b-1849f2eca7e3",
@@ -19865,6 +19866,34 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-09-04T06:29:20.489923+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "e811cdc3-caae-4613-8246-dc6c23f8ebf5",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 79,
+    "entry": 2525.21,
+    "sl": 2496.047857142857,
+    "tp": 2583.534285714286,
+    "stop_distance_pct": 1.1548403046535913,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 6.5,
+    "position_usd": 129.8880887647876,
+    "risk_usd": 1.5000000000000002,
+    "profit_usd": 3.0000000000000004,
+    "timestamp": "2026-09-04T11:41:56.993418+00:00",
     "status": "pending"
   }
 ]
