@@ -19982,5 +19982,62 @@
     "profit_usd": 2.9999999999999996,
     "timestamp": "2026-09-05T13:31:37.111304+00:00",
     "status": "pending"
+  },
+  {
+    "id": "5e4a7d2c-760c-4090-8b09-e4bb2d6dcd7a",
+    "symbol": "XRPUSDT",
+    "direction": "BUY",
+    "confidence": 74,
+    "entry": 1.4122,
+    "sl": 1.3924589285714284,
+    "tp": 1.451682142857143,
+    "stop_distance_pct": 1.3978948752706069,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 5.4,
+    "position_usd": 107.30420624151922,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-09-05T16:17:29.421897+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "e129568a-98be-4e5e-abb8-f896f4db9276",
+    "symbol": "AVAXUSDT",
+    "direction": "BUY",
+    "confidence": 70,
+    "entry": 7.54,
+    "sl": 7.367285714285714,
+    "tp": 7.885428571428572,
+    "stop_distance_pct": 2.2906403940886744,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "الگوی کندلی نزولی شناسایی شد (bearish_pin)",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.3,
+    "position_usd": 65.48387096774181,
+    "risk_usd": 1.4999999999999998,
+    "profit_usd": 2.9999999999999996,
+    "timestamp": "2026-09-05T16:17:38.653718+00:00",
+    "status": "pending"
   }
 ]
