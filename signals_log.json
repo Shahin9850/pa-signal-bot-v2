@@ -20156,7 +20156,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-09-05T18:32:12.428902+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-09-06T22:27:27.103377+00:00"
   },
   {
     "id": "525fa754-98ec-4ca8-9f9d-3c8a03913b18",
