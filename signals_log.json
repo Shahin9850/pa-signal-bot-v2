@@ -19953,7 +19953,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-09-05T13:31:27.628876+00:00",
-    "status": "pending"
+    "status": "win",
+    "closed_at": "2026-09-06T04:44:45.717419+00:00"
   },
   {
     "id": "ba485ad1-f4b7-4159-bfcd-4ab0bfac9bc3",
@@ -20182,6 +20183,62 @@
     "risk_usd": 1.5,
     "profit_usd": 2.999999999999995,
     "timestamp": "2026-09-05T18:32:14.406331+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "57cc365a-1316-4ff8-9649-6014caf6e97b",
+    "symbol": "ETHUSDT",
+    "direction": "BUY",
+    "confidence": 71,
+    "entry": 2503.99,
+    "sl": 2447.0767857142855,
+    "tp": 2617.8164285714283,
+    "stop_distance_pct": 2.272901021398419,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 3.3,
+    "position_usd": 65.99495472429828,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-09-06T04:44:59.936635+00:00",
+    "status": "pending"
+  },
+  {
+    "id": "83140d06-3220-48e9-8f38-9d6fbdb7168a",
+    "symbol": "SOLUSDT",
+    "direction": "BUY",
+    "confidence": 71,
+    "entry": 106.11,
+    "sl": 102.73446428571428,
+    "tp": 112.86107142857144,
+    "stop_distance_pct": 3.181166444525226,
+    "actual_rr": 2.0,
+    "reasons": [
+      "ساختار بازار (۴ساعته): سقف/کف‌های بالاتر (روند صعودی)",
+      "شکست ساختار صعودی (BOS) در ۱ساعته - ادامه روند",
+      "قیمت داخل منطقه تقاضا (Demand Zone)"
+    ],
+    "factors": [
+      "structure_4h",
+      "bos_1h",
+      "supply_demand_zone"
+    ],
+    "margin_usd": 20.0,
+    "leverage": 2.4,
+    "position_usd": 47.15251547373428,
+    "risk_usd": 1.5,
+    "profit_usd": 3.0,
+    "timestamp": "2026-09-06T04:45:07.354156+00:00",
     "status": "pending"
   }
 ]
