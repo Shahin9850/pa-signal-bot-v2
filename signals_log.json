@@ -20075,7 +20075,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-09-05T18:32:00.534174+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-09-08T15:09:23.175819+00:00"
   },
   {
     "id": "841f7c40-273f-42de-9d50-39a1c0a5c313",
@@ -20220,7 +20221,8 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-09-06T04:44:59.936635+00:00",
-    "status": "pending"
+    "status": "loss",
+    "closed_at": "2026-09-08T15:09:23.175819+00:00"
   },
   {
     "id": "83140d06-3220-48e9-8f38-9d6fbdb7168a",
