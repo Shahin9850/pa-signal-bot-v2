@@ -20282,6 +20282,7 @@
     "risk_usd": 1.5,
     "profit_usd": 3.0,
     "timestamp": "2026-09-10T00:07:51.584441+00:00",
-    "status": "pending"
+    "status": "expired",
+    "closed_at": "2026-09-13T01:09:28.659888+00:00"
   }
 ]
